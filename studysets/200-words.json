@@ -1,0 +1,805 @@
+{
+    "studyset": "22676264",
+    "data": [
+        {
+            "question": "water",
+            "answer": "shuǐ"
+        },
+        {
+            "question": "away",
+            "answer": "lí"
+        },
+        {
+            "question": "good",
+            "answer": "hǎo"
+        },
+        {
+            "question": "want",
+            "answer": "yào"
+        },
+        {
+            "question": "over",
+            "answer": "guò"
+        },
+        {
+            "question": "how",
+            "answer": "zěn me"
+        },
+        {
+            "question": "did",
+            "answer": "zuò"
+        },
+        {
+            "question": "man",
+            "answer": "nán rén"
+        },
+        {
+            "question": "going",
+            "answer": "qù"
+        },
+        {
+            "question": "where",
+            "answer": "nǎ lǐ"
+        },
+        {
+            "question": "would",
+            "answer": "huì"
+        },
+        {
+            "question": "or",
+            "answer": "huò zhě"
+        },
+        {
+            "question": "took",
+            "answer": "ná"
+        },
+        {
+            "question": "school",
+            "answer": "xué xiào"
+        },
+        {
+            "question": "think",
+            "answer": "xiǎng"
+        },
+        {
+            "question": "home",
+            "answer": "jiā"
+        },
+        {
+            "question": "who",
+            "answer": "shuí"
+        },
+        {
+            "question": "didn’t",
+            "answer": "méi yǒu"
+        },
+        {
+            "question": "ran",
+            "answer": "pǎo"
+        },
+        {
+            "question": "know",
+            "answer": "zhī dào"
+        },
+        {
+            "question": "bear",
+            "answer": "xióng"
+        },
+        {
+            "question": "can’t",
+            "answer": "bù néng"
+        },
+        {
+            "question": "again",
+            "answer": "zài"
+        },
+        {
+            "question": "cat",
+            "answer": "māo"
+        },
+        {
+            "question": "long",
+            "answer": "cháng"
+        },
+        {
+            "question": "things",
+            "answer": "shì qing"
+        },
+        {
+            "question": "new",
+            "answer": "xīn"
+        },
+        {
+            "question": "after",
+            "answer": "yǐ hòu"
+        },
+        {
+            "question": "wanted",
+            "answer": "yào"
+        },
+        {
+            "question": "eat",
+            "answer": "chī"
+        },
+        {
+            "question": "everyone",
+            "answer": "měi gè rén"
+        },
+        {
+            "question": "our",
+            "answer": "wǒ men de"
+        },
+        {
+            "question": "two",
+            "answer": "liǎng"
+        },
+        {
+            "question": "has",
+            "answer": "yǒu"
+        },
+        {
+            "question": "yes",  
+            "answer": "shì de"
+        },
+        {
+            "question": "play",
+            "answer": "wán"
+        },
+        {
+            "question": "take",
+            "answer": "ná"
+        },
+        {
+            "question": "thought",
+            "answer": "xiǎng"
+        },
+        {
+            "question": "dog",
+            "answer": "gǒu"
+        },
+        {
+            "question": "well",
+            "answer": "hǎo"
+        },
+        {
+            "question": "find",
+            "answer": "zhǎo dào"
+        },
+        {
+            "question": "more",
+            "answer": "gèng"
+        },
+        {
+            "question": "I’ll",
+            "answer": "wǒ huì"
+        },
+        {
+            "question": "round",
+            "answer": "yīng"
+        },
+        {
+            "question": "tree",
+            "answer": "shù"
+        },
+        {
+            "question": "magic",
+            "answer": "mó fǎ"
+        },
+        {
+            "question": "shouted",
+            "answer": "hū hū"
+        },
+        {
+            "question": "us",
+            "answer": "wǒ men"
+        },
+        {
+            "question": "other",
+            "answer": "lìng wài"
+        },
+        {
+            "question": "food",
+            "answer": "shí wù"
+        },
+        {
+            "question": "fox",
+            "answer": "hú li"
+        },
+        {
+            "question": "through",
+            "answer": "tōng guò"
+        },
+        {
+            "question": "way",
+            "answer": "fāng shì"
+        },
+        {
+            "question": "been",
+            "answer": "cún zài"
+        },
+        {
+            "question": "stop",
+            "answer": "zhǐ"
+        },
+        {
+            "question": "must",
+            "answer": "bì xū"
+        },
+        {
+            "question": "red",
+            "answer": "hóng"
+        },
+        {
+            "question": "door",
+            "answer": "mén"
+        },
+        {
+            "question": "right",
+            "answer": "duì"
+        },
+        {
+            "question": "sea",
+            "answer": "hǎi"
+        },
+        {
+            "question": "these",
+            "answer": "zhè xiē"
+        },
+        {
+            "question": "began",
+            "answer": "kāi shǐ"
+        },
+        {
+            "question": "boy",
+            "answer": "nán hái"
+        },
+        {
+            "question": "animals",
+            "answer": "dòng wù"
+        },
+        {
+            "question": "never",
+            "answer": "yǒng yuǎn bù"
+        },
+        {
+            "question": "next",
+            "answer": "xià yī ge"
+        },
+        {
+            "question": "first",
+            "answer": "dì yī"
+        },
+        {
+            "question": "work",
+            "answer": "gōng zuò"
+        },
+        {
+            "question": "lots",
+            "answer": "hěn duō"
+        },
+        {
+            "question": "need",
+            "answer": "xū yào"
+        },
+        {
+            "question": "that’s",
+            "answer": "zhè shì"
+        },
+        {
+            "question": "baby",
+            "answer": "bǎo bèi"
+        },
+        {
+            "question": "fish",
+            "answer": "yú"
+        },
+        {
+            "question": "gave",
+            "answer": "gěi"
+        },
+        {
+            "question": "mouse",
+            "answer": "láng"
+        },
+        {
+            "question": "something",
+            "answer": "shén me"
+        },
+        {
+            "question": "bed",
+            "answer": "chuáng"
+        },
+        {
+            "question": "may",
+            "answer": "kě néng"
+        },
+        {
+            "question": "still",
+            "answer": "hái"
+        },
+        {
+            "question": "found",
+            "answer": "fā xiàn"
+        },
+        {
+            "question": "live",
+            "answer": "huó zhe"
+        },
+        {
+            "question": "say",
+            "answer": "shuō"
+        },
+        {
+            "question": "soon",
+            "answer": "mǎ shàng"
+        },
+        {
+            "question": "night",
+            "answer": "wǎn shàng"
+        },
+        {
+            "question": "narrator",
+            "answer": "jiǎ shù"
+        },
+        {
+            "question": "small",
+            "answer": "xiǎo"
+        },
+        {
+            "question": "car",
+            "answer": "chē"
+        },
+        {
+            "question": "couldn’t",
+            "answer": "bù néng"
+        },
+        {
+            "question": "three",
+            "answer": "sān"
+        },
+        {
+            "question": "head",
+            "answer": "tóu"
+        },
+        {
+            "question": "king",
+            "answer": "wáng"
+        },
+        {
+            "question": "town",
+            "answer": "xiǎo chéng zhèn"
+        },
+        {
+            "question": "I’ve",
+            "answer": "wǒ yǒu"
+        },
+        {
+            "question": "around",
+            "answer": "zhōu wéi"
+        },
+        {
+            "question": "every",
+            "answer": "měi gè"
+        },
+        {
+            "question": "garden",
+            "answer": "huā yuán"
+        },
+        {
+            "question": "fast",
+            "answer": "kuài"
+        },
+        {
+            "question": "only",
+            "answer": "zhǐ yǒu"
+        },
+        {
+            "question": "many",
+            "answer": "hěn duō"
+        },
+        {
+            "question": "laughed",
+            "answer": "xiào"
+        },
+        {
+            "question": "let’s",
+            "answer": "ràng wǒ men"
+        },
+        {
+            "question": "much",
+            "answer": "hěn duō"
+        },
+        {
+            "question": "suddenly",
+            "answer": "tū rán"
+        },
+        {
+            "question": "told",
+            "answer": "gào su"
+        },
+        {
+            "question": "another",
+            "answer": "líng yī ge"
+        },
+        {
+            "question": "great",
+            "answer": "wěi dà"
+        },
+        {
+            "question": "why",
+            "answer": "wèi shén me"
+        },
+        {
+            "question": "cried",
+            "answer": "kū"
+        },
+        {
+            "question": "keep",
+            "answer": "bǎo chí"
+        },
+        {
+            "question": "room",
+            "answer": "fáng jiān"
+        },
+        {
+            "question": "last",
+            "answer": "zuì hòu"
+        },
+        {
+            "question": "jumped",
+            "answer": "tiào"
+        },
+        {
+            "question": "because",
+            "answer": "yīn wèi"
+        },
+        {
+            "question": "even",
+            "answer": "shěn zhì"
+        },
+        {
+            "question": "am",
+            "answer": "shì"
+        },
+        {
+            "question": "before",
+            "answer": "qián"
+        },
+        {
+            "question": "gran",
+            "answer": "nài nai"
+        },
+        {
+            "question": "clothes",
+            "answer": "yī fú"
+        },
+        {
+            "question": "tell",
+            "answer": "gào su"
+        },
+        {
+            "question": "key",
+            "answer": "yào shi"
+        },
+        {
+            "question": "fun",
+            "answer": "yóu xì"
+        },
+        {
+            "question": "place",
+            "answer": "dì fang"
+        },
+        {
+            "question": "mother",
+            "answer": "mǔ qīn"
+        },
+        {
+            "question": "sat",
+            "answer": "zuò zhe"
+        },
+        {
+            "question": "boat",
+            "answer": "chuán"
+        },
+        {
+            "question": "window",
+            "answer": "chuāng hù"
+        },
+        {
+            "question": "sleep",
+            "answer": "shuì jiào"
+        },
+        {
+            "question": "feet",
+            "answer": "jiǎo"
+        },
+        {
+            "question": "morning",
+            "answer": "zǎo shang"
+        },
+        {
+            "question": "queen",
+            "answer": "nǚ wáng"
+        },
+        {
+            "question": "each",
+            "answer": "měi ge"
+        },
+        {
+            "question": "book",
+            "answer": "shū"
+        },
+        {
+            "question": "its",
+            "answer": "tā de"
+        },
+        {
+            "question": "green",
+            "answer": "lǜ"
+        },
+        {
+            "question": "different",
+            "answer": "bù tóng"
+        },
+        {
+            "question": "let",
+            "answer": "ràng"
+        },
+        {
+            "question": "girl",
+            "answer": "nǚ hái"
+        },
+        {
+            "question": "which",
+            "answer": "nǎ yī ge"
+        },
+        {
+            "question": "inside",
+            "answer": "lǐ mian"
+        },
+        {
+            "question": "run",
+            "answer": "pǎo"
+        },
+        {
+            "question": "any",
+            "answer": "rén hé"
+        },
+        {
+            "question": "under",
+            "answer": "zài...xià"
+        },
+        {
+            "question": "hat",
+            "answer": "mào zi"
+        },
+        {
+            "question": "snow",
+            "answer": "xuě"
+        },
+        {
+            "question": "air",
+            "answer": "kōng qì"
+        },
+        {
+            "question": "trees",
+            "answer": "shù"
+        },
+        {
+            "question": "bad",
+            "answer": "huài"
+        },
+        {
+            "question": "tea",
+            "answer": "chá"
+        },
+        {
+            "question": "top",
+            "answer": "dǐng"
+        },
+        {
+            "question": "eyes",
+            "answer": "yǎn jīng"
+        },
+        {
+            "question": "fell",
+            "answer": "diào"
+        },
+        {
+            "question": "friends",
+            "answer": "péng yǒu"
+        },
+        {
+            "question": "box",
+            "answer": "hé zi"
+        },
+        {
+            "question": "dark",
+            "answer": "àn"
+        },
+        {
+            "question": "grandad",
+            "answer": "yé yé"
+        },
+        {
+            "question": "there’s",
+            "answer": "yǒu"
+        },
+        {
+            "question": "looking",
+            "answer": "kàn"
+        },
+        {
+            "question": "end",
+            "answer": "jié shù"
+        },
+        {
+            "question": "than",
+            "answer": "bǐ"
+        },
+        {
+            "question": "best",
+            "answer": "zuì hǎo"
+        },
+        {
+            "question": "better",
+            "answer": "gèng hǎo"
+        },
+        {
+            "question": "hot",
+            "answer": "rè"
+        },
+        {
+            "question": "sun",
+            "answer": "tài yáng"
+        },
+        {
+            "question": "across",
+            "answer": "duì miàn"
+        },
+        {
+            "question": "gone",
+            "answer": "zǒu le"
+        },
+        {
+            "question": "hard",
+            "answer": "nán"
+        },
+        {
+            "question": "floppy",
+            "answer": "ruǎn de"
+        },
+        {
+            "question": "really",
+            "answer": "zhēn de"
+        },
+        {
+            "question": "wind",
+            "answer": "fēng"
+        },
+        {
+            "question": "wish",
+            "answer": "yuàn"
+        },
+        {
+            "question": "eggs",
+            "answer": "jī dàn"
+        },
+        {
+            "question": "once",
+            "answer": "yī cì"
+        },
+        {
+            "question": "please",
+            "answer": "qǐng"
+        },
+        {
+            "question": "thing",
+            "answer": "shì qing"
+        },
+        {
+            "question": "stopped",
+            "answer": "zhǐ"
+        },
+        {
+            "question": "ever",
+            "answer": "yǒng yuǎn"
+        },
+        {
+            "question": "miss",
+            "answer": "xiǎng niàn"
+        },
+        {
+            "question": "most",
+            "answer": "zuì"
+        },
+        {
+            "question": "cold",
+            "answer": "lěng"
+        },
+        {
+            "question": "park",
+            "answer": "gōng yuán"
+        },
+        {
+            "question": "lived",
+            "answer": "zhù"
+        },
+        {
+            "question": "birds",
+            "answer": "niǎo"
+        },
+        {
+            "question": "duck",
+            "answer": "yā"
+        },
+        {
+            "question": "horse",
+            "answer": "mǎ"
+        },
+        {
+            "question": "rabbit",
+            "answer": "tù zi"
+        },
+        {
+            "question": "white",
+            "answer": "bái"
+        },
+        {
+            "question": "coming",
+            "answer": "lái"
+        },
+        {
+            "question": "he’s",
+            "answer": "tā shì"
+        },
+        {
+            "question": "river",
+            "answer": "hé"
+        },
+        {
+            "question": "liked",
+            "answer": "xǐ huān"
+        },
+        {
+            "question": "giant",
+            "answer": "jù rén"
+        },
+        {
+            "question": "looks",
+            "answer": "kàn qǐ lái"
+        },
+        {
+            "question": "use",
+            "answer": "shǐ yòng"
+        },
+        {
+            "question": "along",
+            "answer": "sòng"
+        },
+        {
+            "question": "plants",
+            "answer": "zhí wù"
+        },
+        {
+            "question": "dragon",
+            "answer": "lóng"
+        },
+        {
+            "question": "pulled",
+            "answer": "lā"
+        },
+        {
+            "question": "we’re",
+            "answer": "wǒ men"
+        },
+        {
+            "question": "fly",
+            "answer": "fēi"
+        },
+        {
+            "question": "grow",
+            "answer": "zhǎng dào"
+        }
+    ]
+}

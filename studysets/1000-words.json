@@ -1,0 +1,3985 @@
+{
+    "studyset": "",
+    "data": [
+        {
+            "question": "ability",
+            "answer": "néng lì"
+        },
+        {
+            "question": "able",
+            "answer": "néng gòu"
+        },
+        {
+            "question": "about",
+            "answer": "guān yú"
+        },
+        {
+            "question": "above",
+            "answer": "shàng miàn"
+        },
+        {
+            "question": "accept",
+            "answer": "jiē shòu"
+        },
+        {
+            "question": "according",
+            "answer": "àn zhào"
+        },
+        {
+            "question": "account",
+            "answer": "zhàng hù"
+        },
+        {
+            "question": "across",
+            "answer": "chuān guò"
+        },
+        {
+            "question": "act",
+            "answer": "xíng dòng"
+        },
+        {
+            "question": "action",
+            "answer": "dòng zuò"
+        },
+        {
+            "question": "activity",
+            "answer": "huó dòng"
+        },
+        {
+            "question": "actually",
+            "answer": "qí shí"
+        },
+        {
+            "question": "add",
+            "answer": "tiān jiā"
+        },
+        {
+            "question": "address",
+            "answer": "dì zhǐ"
+        },
+        {
+            "question": "administration",
+            "answer": "xíng zhèng"
+        },
+        {
+            "question": "admit",
+            "answer": "chéng rèn"
+        },
+        {
+            "question": "adult",
+            "answer": "chéng nián rén"
+        },
+        {
+            "question": "affect",
+            "answer": "yǐng xiǎng"
+        },
+        {
+            "question": "after",
+            "answer": "hòu"
+        },
+        {
+            "question": "again",
+            "answer": "zài cì"
+        },
+        {
+            "question": "against",
+            "answer": "fǎn duì"
+        },
+        {
+            "question": "age",
+            "answer": "nián líng"
+        },
+        {
+            "question": "agency",
+            "answer": "dài lǐ jī gòu"
+        },
+        {
+            "question": "agent",
+            "answer": "dài lǐ"
+        },
+        {
+            "question": "ago",
+            "answer": "yǐ qián"
+        },
+        {
+            "question": "agree",
+            "answer": "tóng yì"
+        },
+        {
+            "question": "agreement",
+            "answer": "xié yì"
+        },
+        {
+            "question": "ahead",
+            "answer": "qián"
+        },
+        {
+            "question": "air",
+            "answer": "kōng qì"
+        },
+        {
+            "question": "all",
+            "answer": "suǒ yǒu"
+        },
+        {
+            "question": "allow",
+            "answer": "yǔn xǔ"
+        },
+        {
+            "question": "almost",
+            "answer": "jī hū"
+        },
+        {
+            "question": "alone",
+            "answer": "dú zì"
+        },
+        {
+            "question": "along",
+            "answer": "yán zhe"
+        },
+        {
+            "question": "already",
+            "answer": "yǐ jīng"
+        },
+        {
+            "question": "also",
+            "answer": "yě"
+        },
+        {
+            "question": "although",
+            "answer": "jǐn guǎn"
+        },
+        {
+            "question": "always",
+            "answer": "zǒng shì"
+        },
+        {
+            "question": "American",
+            "answer": "měi guó rén"
+        },
+        {
+            "question": "among",
+            "answer": "zhī jiān"
+        },
+        {
+            "question": "amount",
+            "answer": "shù liàng"
+        },
+        {
+            "question": "analysis",
+            "answer": "fēn xī"
+        },
+        {
+            "question": "and",
+            "answer": "hé"
+        },
+        {
+            "question": "animal",
+            "answer": "dòng wù"
+        },
+        {
+            "question": "another",
+            "answer": "lìng yī gè"
+        },
+        {
+            "question": "answer",
+            "answer": "huí dá"
+        },
+        {
+            "question": "any",
+            "answer": "rèn hé"
+        },
+        {
+            "question": "anyone",
+            "answer": "rèn hé rén"
+        },
+        {
+            "question": "anything",
+            "answer": "rèn hé shì"
+        },
+        {
+            "question": "appear",
+            "answer": "chū xiàn"
+        },
+        {
+            "question": "apply",
+            "answer": "shēn qǐng"
+        },
+        {
+            "question": "approach",
+            "answer": "jiē jìn"
+        },
+        {
+            "question": "area",
+            "answer": "qū yù"
+        },
+        {
+            "question": "argue",
+            "answer": "zhēng lùn"
+        },
+        {
+            "question": "arm",
+            "answer": "shǒu bì"
+        },
+        {
+            "question": "around",
+            "answer": "zhōu wéi"
+        },
+        {
+            "question": "arrive",
+            "answer": "dào dá"
+        },
+        {
+            "question": "art",
+            "answer": "yì shù"
+        },
+        {
+            "question": "article",
+            "answer": "wén zhāng"
+        },
+        {
+            "question": "artist",
+            "answer": "yì shù jiā"
+        },
+        {
+            "question": "as",
+            "answer": "xiàng"
+        },
+        {
+            "question": "ask",
+            "answer": "wèn"
+        },
+        {
+            "question": "assume",
+            "answer": "jiǎ shè"
+        },
+        {
+            "question": "at",
+            "answer": "zài"
+        },
+        {
+            "question": "attack",
+            "answer": "gōng jī"
+        },
+        {
+            "question": "attention",
+            "answer": "zhù yì"
+        },
+        {
+            "question": "attorney",
+            "answer": "lǜ shī"
+        },
+        {
+            "question": "audience",
+            "answer": "guān zhòng"
+        },
+        {
+            "question": "author",
+            "answer": "zuò zhě"
+        },
+        {
+            "question": "authority",
+            "answer": "quán wēi"
+        },
+        {
+            "question": "available",
+            "answer": "kě yòng"
+        },
+        {
+            "question": "avoid",
+            "answer": "bì miǎn"
+        },
+        {
+            "question": "away",
+            "answer": "lí kāi"
+        },
+        {
+            "question": "baby",
+            "answer": "yīng ér"
+        },
+        {
+            "question": "back",
+            "answer": "hòu"
+        },
+        {
+            "question": "bad",
+            "answer": "huài"
+        },
+        {
+            "question": "bag",
+            "answer": "bāo"
+        },
+        {
+            "question": "ball",
+            "answer": "qiú"
+        },
+        {
+            "question": "bank",
+            "answer": "yín háng"
+        },
+        {
+            "question": "bar",
+            "answer": "jiǔ bā"
+        },
+        {
+            "question": "base",
+            "answer": "jī chǔ"
+        },
+        {
+            "question": "be",
+            "answer": "shì"
+        },
+        {
+            "question": "beat",
+            "answer": "zhòu jí"
+        },
+        {
+            "question": "beautiful",
+            "answer": "měi lì"
+        },
+        {
+            "question": "because",
+            "answer": "yīn wèi"
+        },
+        {
+            "question": "become",
+            "answer": "chéng wéi"
+        },
+        {
+            "question": "bed",
+            "answer": "chuáng"
+        },
+        {
+            "question": "before",
+            "answer": "zhī qián"
+        },
+        {
+            "question": "begin",
+            "answer": "kāi shǐ"
+        },
+        {
+            "question": "behavior",
+            "answer": "xíng wéi"
+        },
+        {
+            "question": "behind",
+            "answer": "hòu miàn"
+        },
+        {
+            "question": "believe",
+            "answer": "xiāng xìn"
+        },
+        {
+            "question": "benefit",
+            "answer": "lì yì"
+        },
+        {
+            "question": "best",
+            "answer": "zuì hǎo"
+        },
+        {
+            "question": "better",
+            "answer": "gèng hǎo"
+        },
+        {
+            "question": "between",
+            "answer": "zhī jiān"
+        },
+        {
+            "question": "beyond",
+            "answer": "chāo chū"
+        },
+        {
+            "question": "big",
+            "answer": "dà"
+        },
+        {
+            "question": "bill",
+            "answer": "zhàng dān"
+        },
+        {
+            "question": "billion",
+            "answer": "shí yì"
+        },
+        {
+            "question": "bit",
+            "answer": "yī diǎn"
+        },
+        {
+            "question": "black",
+            "answer": "hēi"
+        },
+        {
+            "question": "blood",
+            "answer": "xiě"
+        },
+        {
+            "question": "blue",
+            "answer": "lán"
+        },
+        {
+            "question": "board",
+            "answer": "bǎn"
+        },
+        {
+            "question": "body",
+            "answer": "shēn tǐ"
+        },
+        {
+            "question": "book",
+            "answer": "shū"
+        },
+        {
+            "question": "born",
+            "answer": "chū shēng"
+        },
+        {
+            "question": "both",
+            "answer": "liǎng gè"
+        },
+        {
+            "question": "box",
+            "answer": "hé"
+        },
+        {
+            "question": "boy",
+            "answer": "nán hái"
+        },
+        {
+            "question": "break",
+            "answer": "dǎ pò"
+        },
+        {
+            "question": "bring",
+            "answer": "dài lái"
+        },
+        {
+            "question": "brother",
+            "answer": "xiōng dì"
+        },
+        {
+            "question": "budget",
+            "answer": "yù suàn"
+        },
+        {
+            "question": "build",
+            "answer": "jiàn"
+        },
+        {
+            "question": "building",
+            "answer": "jiàn zhù"
+        },
+        {
+            "question": "business",
+            "answer": "shēng yì"
+        },
+        {
+            "question": "but",
+            "answer": "dàn shì"
+        },
+        {
+            "question": "buy",
+            "answer": "mǎi"
+        },
+        {
+            "question": "by",
+            "answer": "yóu"
+        },
+        {
+            "question": "call",
+            "answer": "jiào"
+        },
+        {
+            "question": "camera",
+            "answer": "zhào xiàng jī"
+        },
+        {
+            "question": "campaign",
+            "answer": "huó dòng"
+        },
+        {
+            "question": "can",
+            "answer": "néng"
+        },
+        {
+            "question": "cancer",
+            "answer": "ái zhèng"
+        },
+        {
+            "question": "candidate",
+            "answer": "hòu xuǎn rén"
+        },
+        {
+            "question": "capital",
+            "answer": "shǒu dū"
+        },
+        {
+            "question": "car",
+            "answer": "chē"
+        },
+        {
+            "question": "card",
+            "answer": "kǎ"
+        },
+        {
+            "question": "care",
+            "answer": "zhào gù"
+        },
+        {
+            "question": "career",
+            "answer": "zhí yè"
+        },
+        {
+            "question": "carry",
+            "answer": "dài"
+        },
+        {
+            "question": "case",
+            "answer": "àn jiàn"
+        },
+        {
+            "question": "catch",
+            "answer": "zhuā"
+        },
+        {
+            "question": "cause",
+            "answer": "yuán yīn"
+        },
+        {
+            "question": "cell",
+            "answer": "xì bāo"
+        },
+        {
+            "question": "center",
+            "answer": "zhōng xīn"
+        },
+        {
+            "question": "central",
+            "answer": "zhōng yāng"
+        },
+        {
+            "question": "century",
+            "answer": "shì jì"
+        },
+        {
+            "question": "certain",
+            "answer": "yī dìng"
+        },
+        {
+            "question": "certainly",
+            "answer": "dāng rán"
+        },
+        {
+            "question": "chair",
+            "answer": "yǐ zi"
+        },
+        {
+            "question": "challenge",
+            "answer": "tiǎo zhàn"
+        },
+        {
+            "question": "chance",
+            "answer": "jī huì"
+        },
+        {
+            "question": "change",
+            "answer": "biàn huà"
+        },
+        {
+            "question": "character",
+            "answer": "xìng gé"
+        },
+        {
+            "question": "charge",
+            "answer": "shōu fèi"
+        },
+        {
+            "question": "check",
+            "answer": "jiǎn chá"
+        },
+        {
+            "question": "child",
+            "answer": "hái zi"
+        },
+        {
+            "question": "choice",
+            "answer": "xuǎn zé"
+        },
+        {
+            "question": "choose",
+            "answer": "xuǎn zé"
+        },
+        {
+            "question": "church",
+            "answer": "jiào táng"
+        },
+        {
+            "question": "citizen",
+            "answer": "gōng mín"
+        },
+        {
+            "question": "city",
+            "answer": "chéng shì"
+        },
+        {
+            "question": "civil",
+            "answer": "mín zhòng"
+        },
+        {
+            "question": "claim",
+            "answer": "shēng chēng"
+        },
+        {
+            "question": "class",
+            "answer": "bān"
+        },
+        {
+            "question": "clear",
+            "answer": "qīng chǔ"
+        },
+        {
+            "question": "clearly",
+            "answer": "qīng chǔ"
+        },
+        {
+            "question": "close",
+            "answer": "guān bì"
+        },
+        {
+            "question": "coach",
+            "answer": "jiào liàn"
+        },
+        {
+            "question": "cold",
+            "answer": "lěng"
+        },
+        {
+            "question": "collection",
+            "answer": "shōu jí"
+        },
+        {
+            "question": "college",
+            "answer": "dà xué"
+        },
+        {
+            "question": "color",
+            "answer": "yán sè"
+        },
+        {
+            "question": "come",
+            "answer": "lái"
+        },
+        {
+            "question": "commercial",
+            "answer": "shāng yè"
+        },
+        {
+            "question": "common",
+            "answer": "pǔ tōng"
+        },
+        {
+            "question": "community",
+            "answer": "shè qū"
+        },
+        {
+            "question": "company",
+            "answer": "gōng sī"
+        },
+        {
+            "question": "compare",
+            "answer": "bǐ jiào"
+        },
+        {
+            "question": "computer",
+            "answer": "diàn nǎo"
+        },
+        {
+            "question": "concern",
+            "answer": "guān xīn"
+        },
+        {
+            "question": "condition",
+            "answer": "tiáo jiàn"
+        },
+        {
+            "question": "conference",
+            "answer": "huì yì"
+        },
+        {
+            "question": "Congress",
+            "answer": "guó huì"
+        },
+        {
+            "question": "consider",
+            "answer": "kǎo lǜ"
+        },
+        {
+            "question": "consumer",
+            "answer": "xiāo fèi zhě"
+        },
+        {
+            "question": "contain",
+            "answer": "bāo hán"
+        },
+        {
+            "question": "continue",
+            "answer": "jì xù"
+        },
+        {
+            "question": "control",
+            "answer": "kòng zhì"
+        },
+        {
+            "question": "cost",
+            "answer": "chéng běn"
+        },
+        {
+            "question": "could",
+            "answer": "néng"
+        },
+        {
+            "question": "country",
+            "answer": "guó jiā"
+        },
+        {
+            "question": "couple",
+            "answer": "yī duì"
+        },
+        {
+            "question": "course",
+            "answer": "kè chéng"
+        },
+        {
+            "question": "court",
+            "answer": "fǎ yuàn"
+        },
+        {
+            "question": "cover",
+            "answer": "fù gài"
+        },
+        {
+            "question": "create",
+            "answer": "chuàng zào"
+        },
+        {
+            "question": "crime",
+            "answer": "fàn zuì"
+        },
+        {
+            "question": "cultural",
+            "answer": "wén huà"
+        },
+        {
+            "question": "culture",
+            "answer": "wén huà"
+        },
+        {
+            "question": "cup",
+            "answer": "bēi zi"
+        },
+        {
+            "question": "current",
+            "answer": "dāng qián"
+        },
+        {
+            "question": "customer",
+            "answer": "kè hù"
+        },
+        {
+            "question": "cut",
+            "answer": "jiǎn"
+        },
+        {
+            "question": "dark",
+            "answer": "hēi àn"
+        },
+        {
+            "question": "data",
+            "answer": "shù jù"
+        },
+        {
+            "question": "daughter",
+            "answer": "nǚ ér"
+        },
+        {
+            "question": "day",
+            "answer": "rì"
+        },
+        {
+            "question": "dead",
+            "answer": "sǐ"
+        },
+        {
+            "question": "deal",
+            "answer": "jiāo yì"
+        },
+        {
+            "question": "death",
+            "answer": "sǐ wáng"
+        },
+        {
+            "question": "debate",
+            "answer": "biàn lùn"
+        },
+        {
+            "question": "decade",
+            "answer": "shí nián"
+        },
+        {
+            "question": "decide",
+            "answer": "jué dìng"
+        },
+        {
+            "question": "decision",
+            "answer": "jué dìng"
+        },
+        {
+            "question": "deep",
+            "answer": "shēn"
+        },
+        {
+            "question": "defense",
+            "answer": "fáng yù"
+        },
+        {
+            "question": "degree",
+            "answer": "dù"
+        },
+        {
+            "question": "Democrat",
+            "answer": "mín zhǔ dǎng"
+        },
+        {
+            "question": "democratic",
+            "answer": "mín zhǔ de"
+        },
+        {
+            "question": "describe",
+            "answer": "miáo shù"
+        },
+        {
+            "question": "design",
+            "answer": "shè jì"
+        },
+        {
+            "question": "despite",
+            "answer": "jǐn guǎn"
+        },
+        {
+            "question": "detail",
+            "answer": "xì jié"
+        },
+        {
+            "question": "determine",
+            "answer": "jué dìng"
+        },
+        {
+            "question": "develop",
+            "answer": "fā zhǎn"
+        },
+        {
+            "question": "development",
+            "answer": "fā zhǎn"
+        },
+        {
+            "question": "die",
+            "answer": "sǐ"
+        },
+        {
+            "question": "difference",
+            "answer": "chā yì"
+        },
+        {
+            "question": "different",
+            "answer": "bù tóng"
+        },
+        {
+            "question": "difficult",
+            "answer": "kùn nán"
+        },
+        {
+            "question": "dinner",
+            "answer": "wǎn cān"
+        },
+        {
+            "question": "direction",
+            "answer": "fāng xiàng"
+        },
+        {
+            "question": "director",
+            "answer": "zhǔ rèn"
+        },
+        {
+            "question": "discover",
+            "answer": "fā xiàn"
+        },
+        {
+            "question": "discuss",
+            "answer": "tǎo lùn"
+        },
+        {
+            "question": "discussion",
+            "answer": "tǎo lùn"
+        },
+        {
+            "question": "disease",
+            "answer": "jí bìng"
+        },
+        {
+            "question": "do",
+            "answer": "zuò"
+        },
+        {
+            "question": "doctor",
+            "answer": "yī shēng"
+        },
+        {
+            "question": "dog",
+            "answer": "gǒu"
+        },
+        {
+            "question": "door",
+            "answer": "mén"
+        },
+        {
+            "question": "down",
+            "answer": "xià"
+        },
+        {
+            "question": "draw",
+            "answer": "huà"
+        },
+        {
+            "question": "dream",
+            "answer": "mèng"
+        },
+        {
+            "question": "drive",
+            "answer": "jià shǐ"
+        },
+        {
+            "question": "drop",
+            "answer": "luò"
+        },
+        {
+            "question": "drug",
+            "answer": "yào"
+        },
+        {
+            "question": "during",
+            "answer": "qí jiān"
+        },
+        {
+            "question": "each",
+            "answer": "měi"
+        },
+        {
+            "question": "early",
+            "answer": "zǎo"
+        },
+        {
+            "question": "east",
+            "answer": "dōng"
+        },
+        {
+            "question": "easy",
+            "answer": "jiǎn dān"
+        },
+        {
+            "question": "eat",
+            "answer": "chī"
+        },
+        {
+            "question": "economic",
+            "answer": "jīng jì"
+        },
+        {
+            "question": "economy",
+            "answer": "jīng jì"
+        },
+        {
+            "question": "edge",
+            "answer": "biān yuán"
+        },
+        {
+            "question": "education",
+            "answer": "jiào yù"
+        },
+        {
+            "question": "effect",
+            "answer": "xiào guǒ"
+        },
+        {
+            "question": "effort",
+            "answer": "nǔ lì"
+        },
+        {
+            "question": "eight",
+            "answer": "bā"
+        },
+        {
+            "question": "either",
+            "answer": "rén hé"
+        },
+        {
+            "question": "election",
+            "answer": "xuǎn jǔ"
+        },
+        {
+            "question": "else",
+            "answer": "bié de"
+        },
+        {
+            "question": "employee",
+            "answer": "yuán gōng"
+        },
+        {
+            "question": "end",
+            "answer": "jié shù"
+        },
+        {
+            "question": "energy",
+            "answer": "néng liàng"
+        },
+        {
+            "question": "enjoy",
+            "answer": "xiǎng shòu"
+        },
+        {
+            "question": "enough",
+            "answer": "zú gòu"
+        },
+        {
+            "question": "enter",
+            "answer": "jìn rù"
+        },
+        {
+            "question": "entire",
+            "answer": "zhěng gè"
+        },
+        {
+            "question": "environment",
+            "answer": "huán jìng"
+        },
+        {
+            "question": "especially",
+            "answer": "yóu qí"
+        },
+        {
+            "question": "establish",
+            "answer": "chéng lì"
+        },
+        {
+            "question": "even",
+            "answer": "shèn zhì"
+        },
+        {
+            "question": "evening",
+            "answer": "wǎn shàng"
+        },
+        {
+            "question": "event",
+            "answer": "huó dòng"
+        },
+        {
+            "question": "ever",
+            "answer": "céng jīng"
+        },
+        {
+            "question": "every",
+            "answer": "měi"
+        },
+        {
+            "question": "everybody",
+            "answer": "dà jiā"
+        },
+        {
+            "question": "everyone",
+            "answer": "měi gè rén"
+        },
+        {
+            "question": "everything",
+            "answer": "měi yī jiàn shì qíng"
+        },
+        {
+            "question": "evidence",
+            "answer": "zhèng jù"
+        },
+        {
+            "question": "exactly",
+            "answer": "zhèng hǎo"
+        },
+        {
+            "question": "example",
+            "answer": "lì zi"
+        },
+        {
+            "question": "executive",
+            "answer": "zhí xíng guān"
+        },
+        {
+            "question": "exist",
+            "answer": "cún zài"
+        },
+        {
+            "question": "expect",
+            "answer": "qī wàng"
+        },
+        {
+            "question": "experience",
+            "answer": "jīng yàn"
+        },
+        {
+            "question": "expert",
+            "answer": "zhuān jiā"
+        },
+        {
+            "question": "explain",
+            "answer": "jiě shì"
+        },
+        {
+            "question": "eye",
+            "answer": "yǎn jīng"
+        },
+        {
+            "question": "face",
+            "answer": "liǎn"
+        },
+        {
+            "question": "fact",
+            "answer": "shì shí"
+        },
+        {
+            "question": "factor",
+            "answer": "yīn sù"
+        },
+        {
+            "question": "fail",
+            "answer": "shī bài"
+        },
+        {
+            "question": "fall",
+            "answer": "xià"
+        },
+        {
+            "question": "family",
+            "answer": "jiā tíng"
+        },
+        {
+            "question": "far",
+            "answer": "yuǎn"
+        },
+        {
+            "question": "fast",
+            "answer": "kuài"
+        },
+        {
+            "question": "father",
+            "answer": "fù qīn"
+        },
+        {
+            "question": "fear",
+            "answer": "kǒng jù"
+        },
+        {
+            "question": "federal",
+            "answer": "lián bāng"
+        },
+        {
+            "question": "feel",
+            "answer": "gǎn jué"
+        },
+        {
+            "question": "feeling",
+            "answer": "gǎn jué"
+        },
+        {
+            "question": "few",
+            "answer": "shǎo shù"
+        },
+        {
+            "question": "field",
+            "answer": "tián"
+        },
+        {
+            "question": "fight",
+            "answer": "dòu zhēng"
+        },
+        {
+            "question": "figure",
+            "answer": "shù zì"
+        },
+        {
+            "question": "fill",
+            "answer": "tián mǎn"
+        },
+        {
+            "question": "film",
+            "answer": "diàn yǐng"
+        },
+        {
+            "question": "final",
+            "answer": "zuì hòu"
+        },
+        {
+            "question": "finally",
+            "answer": "zuì zhōng"
+        },
+        {
+            "question": "financial",
+            "answer": "jīn róng"
+        },
+        {
+            "question": "find",
+            "answer": "zhǎo dào"
+        },
+        {
+            "question": "fine",
+            "answer": "hǎo"
+        },
+        {
+            "question": "finger",
+            "answer": "shǒu zhǐ"
+        },
+        {
+            "question": "finish",
+            "answer": "wán chéng"
+        },
+        {
+            "question": "fire",
+            "answer": "huǒ"
+        },
+        {
+            "question": "firm",
+            "answer": "jiān jué"
+        },
+        {
+            "question": "first",
+            "answer": "dì yī"
+        },
+        {
+            "question": "fish",
+            "answer": "yú"
+        },
+        {
+            "question": "five",
+            "answer": "wǔ"
+        },
+        {
+            "question": "floor",
+            "answer": "dì bǎn"
+        },
+        {
+            "question": "fly",
+            "answer": "fēi"
+        },
+        {
+            "question": "focus",
+            "answer": "jiāo diǎn"
+        },
+        {
+            "question": "follow",
+            "answer": "gēn zōng"
+        },
+        {
+            "question": "food",
+            "answer": "shí wù"
+        },
+        {
+            "question": "foot",
+            "answer": "jiǎo"
+        },
+        {
+            "question": "for",
+            "answer": "wèi le"
+        },
+        {
+            "question": "force",
+            "answer": "lì liàng"
+        },
+        {
+            "question": "foreign",
+            "answer": "wài guó"
+        },
+        {
+            "question": "forget",
+            "answer": "wàng jì"
+        },
+        {
+            "question": "form",
+            "answer": "xíng shì"
+        },
+        {
+            "question": "former",
+            "answer": "qián"
+        },
+        {
+            "question": "forward",
+            "answer": "qián jìn"
+        },
+        {
+            "question": "four",
+            "answer": "sì"
+        },
+        {
+            "question": "free",
+            "answer": "miǎn fèi"
+        },
+        {
+            "question": "friend",
+            "answer": "péng yǒu"
+        },
+        {
+            "question": "from",
+            "answer": "cóng"
+        },
+        {
+            "question": "front",
+            "answer": "qián miàn"
+        },
+        {
+            "question": "full",
+            "answer": "mǎn"
+        },
+        {
+            "question": "fund",
+            "answer": "jī jīn"
+        },
+        {
+            "question": "future",
+            "answer": "wèi lái"
+        },
+        {
+            "question": "game",
+            "answer": "yóu xì"
+        },
+        {
+            "question": "garden",
+            "answer": "huā yuán"
+        },
+        {
+            "question": "gas",
+            "answer": "qì"
+        },
+        {
+            "question": "general",
+            "answer": "yì bān"
+        },
+        {
+            "question": "generation",
+            "answer": "dài"
+        },
+        {
+            "question": "get",
+            "answer": "huò dé"
+        },
+        {
+            "question": "girl",
+            "answer": "nǚ hái"
+        },
+        {
+            "question": "give",
+            "answer": "gěi"
+        },
+        {
+            "question": "glass",
+            "answer": "bō lí"
+        },
+        {
+            "question": "goal",
+            "answer": "mù biāo"
+        },
+        {
+            "question": "good",
+            "answer": "hǎo"
+        },
+        {
+            "question": "government",
+            "answer": "zhèng fǔ"
+        },
+        {
+            "question": "great",
+            "answer": "wěi dà"
+        },
+        {
+            "question": "green",
+            "answer": "lǜ"
+        },
+        {
+            "question": "ground",
+            "answer": "dì"
+        },
+        {
+            "question": "group",
+            "answer": "tuán tǐ"
+        },
+        {
+            "question": "grow",
+            "answer": "shēng zhǎng"
+        },
+        {
+            "question": "growth",
+            "answer": "shēng zhǎng"
+        },
+        {
+            "question": "guess",
+            "answer": "cāi"
+        },
+        {
+            "question": "gun",
+            "answer": "qiāng"
+        },
+        {
+            "question": "guy",
+            "answer": "rén"
+        },
+        {
+            "question": "hair",
+            "answer": "tóu fa"
+        },
+        {
+            "question": "half",
+            "answer": "bàn"
+        },
+        {
+            "question": "hand",
+            "answer": "shǒu"
+        },
+        {
+            "question": "hang",
+            "answer": "guà"
+        },
+        {
+            "question": "happen",
+            "answer": "fā shēng"
+        },
+        {
+            "question": "happy",
+            "answer": "kuài lè"
+        },
+        {
+            "question": "hard",
+            "answer": "jiān nán"
+        },
+        {
+            "question": "have",
+            "answer": "yǒu"
+        },
+        {
+            "question": "he",
+            "answer": "tā"
+        },
+        {
+            "question": "head",
+            "answer": "tóu"
+        },
+        {
+            "question": "health",
+            "answer": "jiàn kāng"
+        },
+        {
+            "question": "hear",
+            "answer": "tīng"
+        },
+        {
+            "question": "heart",
+            "answer": "xīn zàng"
+        },
+        {
+            "question": "heat",
+            "answer": "rè"
+        },
+        {
+            "question": "heavy",
+            "answer": "zhòng"
+        },
+        {
+            "question": "help",
+            "answer": "bāng zhù"
+        },
+        {
+            "question": "her",
+            "answer": "tā de"
+        },
+        {
+            "question": "here",
+            "answer": "zhè lǐ"
+        },
+        {
+            "question": "herself",
+            "answer": "tā zì jǐ"
+        },
+        {
+            "question": "high",
+            "answer": "gāo"
+        },
+        {
+            "question": "him",
+            "answer": "tā"
+        },
+        {
+            "question": "himself",
+            "answer": "tā zì jǐ"
+        },
+        {
+            "question": "his",
+            "answer": "tā de"
+        },
+        {
+            "question": "history",
+            "answer": "lì shǐ"
+        },
+        {
+            "question": "hit",
+            "answer": "dǎ"
+        },
+        {
+            "question": "hold",
+            "answer": "bǎ chí"
+        },
+        {
+            "question": "home",
+            "answer": "jiā"
+        },
+        {
+            "question": "hope",
+            "answer": "xī wàng"
+        },
+        {
+            "question": "hospital",
+            "answer": "yī yuàn"
+        },
+        {
+            "question": "hot",
+            "answer": "rè"
+        },
+        {
+            "question": "hotel",
+            "answer": "lǚ guǎn"
+        },
+        {
+            "question": "hour",
+            "answer": "xiǎo shí"
+        },
+        {
+            "question": "house",
+            "answer": "fáng zi"
+        },
+        {
+            "question": "how",
+            "answer": "zěn me"
+        },
+        {
+            "question": "however",
+            "answer": "rán ér"
+        },
+        {
+            "question": "huge",
+            "answer": "jù dà"
+        },
+        {
+            "question": "human",
+            "answer": "rén lèi"
+        },
+        {
+            "question": "hundred",
+            "answer": "bǎi"
+        },
+        {
+            "question": "husband",
+            "answer": "zhàng fu"
+        },
+        {
+            "question": "idea",
+            "answer": "zhǔ yì"
+        },
+        {
+            "question": "identify",
+            "answer": "shí bié"
+        },
+        {
+            "question": "if",
+            "answer": "rú guǒ"
+        },
+        {
+            "question": "image",
+            "answer": "tú xiàng"
+        },
+        {
+            "question": "imagine",
+            "answer": "xiǎng xiàng"
+        },
+        {
+            "question": "impact",
+            "answer": "yǐng xiǎng"
+        },
+        {
+            "question": "important",
+            "answer": "zhòng yào"
+        },
+        {
+            "question": "improve",
+            "answer": "gǎi shàn"
+        },
+        {
+            "question": "in",
+            "answer": "zài"
+        },
+        {
+            "question": "include",
+            "answer": "bāo kuò"
+        },
+        {
+            "question": "including",
+            "answer": "bāo kuò"
+        },
+        {
+            "question": "increase",
+            "answer": "zēng jiā"
+        },
+        {
+            "question": "indeed",
+            "answer": "què shí"
+        },
+        {
+            "question": "indicate",
+            "answer": "zhǐ chū"
+        },
+        {
+            "question": "individual",
+            "answer": "gè rén"
+        },
+        {
+            "question": "industry",
+            "answer": "chǎn yè"
+        },
+        {
+            "question": "information",
+            "answer": "xìn xī"
+        },
+        {
+            "question": "inside",
+            "answer": "lǐ miàn"
+        },
+        {
+            "question": "instead",
+            "answer": "dài tì"
+        },
+        {
+            "question": "institution",
+            "answer": "jī gòu"
+        },
+        {
+            "question": "interest",
+            "answer": "xìng qù"
+        },
+        {
+            "question": "interesting",
+            "answer": "yǒu yì si"
+        },
+        {
+            "question": "international",
+            "answer": "guó jì"
+        },
+        {
+            "question": "interview",
+            "answer": "miàn tán"
+        },
+        {
+            "question": "into",
+            "answer": "jìn rù"
+        },
+        {
+            "question": "investment",
+            "answer": "tóu zī"
+        },
+        {
+            "question": "involve",
+            "answer": "bāo kuò"
+        },
+        {
+            "question": "issue",
+            "answer": "wèn tí"
+        },
+        {
+            "question": "it",
+            "answer": "tā"
+        },
+        {
+            "question": "item",
+            "answer": "xiàng mù"
+        },
+        {
+            "question": "its",
+            "answer": "tā de"
+        },
+        {
+            "question": "itself",
+            "answer": "běn shēn"
+        },
+        {
+            "question": "job",
+            "answer": "gōng zuò"
+        },
+        {
+            "question": "join",
+            "answer": "jiā rù"
+        },
+        {
+            "question": "just",
+            "answer": "gāng gāng"
+        },
+        {
+            "question": "keep",
+            "answer": "bǎo chí"
+        },
+        {
+            "question": "key",
+            "answer": "yào shì"
+        },
+        {
+            "question": "kid",
+            "answer": "háizi"
+        },
+        {
+            "question": "kill",
+            "answer": "shā"
+        },
+        {
+            "question": "kind",
+            "answer": "zhǒng"
+        },
+        {
+            "question": "kitchen",
+            "answer": "chú fáng"
+        },
+        {
+            "question": "know",
+            "answer": "zhī dào"
+        },
+        {
+            "question": "knowledge",
+        "answer": "zhī shì"
+        },
+        {
+            "question": "land",
+            "answer": "tǔ dì"
+        },
+        {
+            "question": "language",
+            "answer": "yǔ yán"
+        },
+        {
+            "question": "large",
+            "answer": "dà"
+        },
+        {
+            "question": "last",
+            "answer": "zuì hòu"
+        },
+        {
+            "question": "late",
+            "answer": "wǎn"
+        },
+        {
+            "question": "later",
+            "answer": "hòu lái"
+        },
+        {
+            "question": "laugh",
+            "answer": "xiào"
+        },
+        {
+            "question": "law",
+            "answer": "fǎ lǜ"
+        },
+        {
+            "question": "lawyer",
+            "answer": "lǜ shī"
+        },
+        {
+            "question": "lay",
+            "answer": "fàng"
+        },
+        {
+            "question": "lead",
+            "answer": "lǐng dǎo"
+        },
+        {
+            "question": "leader",
+            "answer": "lǐng dǎo"
+        },
+        {
+            "question": "learn",
+            "answer": "xué xí"
+        },
+        {
+            "question": "least",
+            "answer": "zuì shǎo"
+        },
+        {
+            "question": "leave",
+            "answer": "lí kāi"
+        },
+        {
+            "question": "left",
+            "answer": "zuǒ"
+        },
+        {
+            "question": "leg",
+            "answer": "tuǐ"
+        },
+        {
+            "question": "legal",
+            "answer": "hé fǎ"
+        },
+        {
+            "question": "less",
+            "answer": "gèng shǎo"
+        },
+        {
+            "question": "let",
+            "answer": "ràng"
+        },
+        {
+            "question": "letter",
+            "answer": "xìn"
+        },
+        {
+            "question": "level",
+            "answer": "shuǐ píng"
+        },
+        {
+            "question": "lie",
+            "answer": "huǎng yán"
+        },
+        {
+            "question": "life",
+            "answer": "shēng mìng"
+        },
+        {
+            "question": "light",
+            "answer": "guāng"
+        },
+        {
+            "question": "like",
+            "answer": "xǐ huān"
+        },
+        {
+            "question": "likely",
+            "answer": "kě néng"
+        },
+        {
+            "question": "line",
+            "answer": "xiàn"
+        },
+        {
+            "question": "list",
+            "answer": "dān"
+        },
+        {
+            "question": "listen",
+            "answer": "tīng"
+        },
+        {
+            "question": "little",
+            "answer": "xiǎo"
+        },
+        {
+            "question": "live",
+            "answer": "shēng huó"
+        },
+        {
+            "question": "local",
+            "answer": "běn dì"
+        },
+        {
+            "question": "long",
+            "answer": "cháng"
+        },
+        {
+            "question": "look",
+            "answer": "kàn"
+        },
+        {
+            "question": "lose",
+            "answer": "shī qù"
+        },
+        {
+            "question": "loss",
+            "answer": "sǔn shī"
+        },
+        {
+            "question": "lot",
+            "answer": "hěn duō"
+        },
+        {
+            "question": "love",
+            "answer": "ài"
+        },
+        {
+            "question": "low",
+            "answer": "dī"
+        },
+        {
+            "question": "machine",
+            "answer": "jī qì"
+        },
+        {
+            "question": "magazine",
+            "answer": "zá zhì"
+        },
+        {
+            "question": "main",
+            "answer": "zhǔ yào"
+        },
+        {
+            "question": "maintain",
+            "answer": "wéi chí"
+        },
+        {
+            "question": "major",
+            "answer": "zhǔ yào"
+        },
+        {
+            "question": "majority",
+            "answer": "dà duō shù"
+        },
+        {
+            "question": "make",
+            "answer": "zuò"
+        },
+        {
+            "question": "man",
+            "answer": "nán rén"
+        },
+        {
+            "question": "manage",
+            "answer": "guǎn lǐ"
+        },
+        {
+            "question": "management",
+            "answer": "guǎn lǐ"
+        },
+        {
+            "question": "manager",
+            "answer": "jīng lǐ"
+        },
+        {
+            "question": "many",
+            "answer": "hěn duō"
+        },
+        {
+            "question": "market",
+            "answer": "shì chǎng"
+        },
+        {
+            "question": "marriage",
+            "answer": "hūn yīn"
+        },
+        {
+            "question": "material",
+            "answer": "cái liào"
+        },
+        {
+            "question": "matter",
+            "answer": "wèn tí"
+        },
+        {
+            "question": "may",
+            "answer": "kě néng"
+        },
+        {
+            "question": "maybe",
+            "answer": "kě néng"
+        },
+        {
+            "question": "me",
+            "answer": "wǒ"
+        },
+        {
+            "question": "mean",
+            "answer": "yì si"
+        },
+        {
+            "question": "measure",
+            "answer": "cè liáng"
+        },
+        {
+            "question": "media",
+            "answer": "méi tǐ"
+        },
+        {
+            "question": "medical",
+            "answer": "yī liáo"
+        },
+        {
+            "question": "meet",
+            "answer": "jiàn miàn"
+        },
+        {
+            "question": "meeting",
+            "answer": "huì yì"
+        },
+        {
+            "question": "member",
+            "answer": "chéng yuán"
+        },
+        {
+            "question": "memory",
+            "answer": "jì yì"
+        },
+        {
+            "question": "mention",
+            "answer": "tí dào"
+        },
+        {
+            "question": "message",
+            "answer": "xiāo xī"
+        },
+        {
+            "question": "method",
+            "answer": "fāng fǎ"
+        },
+        {
+            "question": "middle",
+            "answer": "zhōng"
+        },
+        {
+            "question": "might",
+            "answer": "kě néng"
+        },
+        {
+            "question": "military",
+            "answer": "jūn shì"
+        },
+        {
+            "question": "million",
+            "answer": "bǎi wàn"
+        },
+        {
+            "question": "mind",
+            "answer": "tóu nǎo"
+        },
+        {
+            "question": "minute",
+            "answer": "fēn zhōng"
+        },
+        {
+            "question": "miss",
+            "answer": "cuò guò"
+        },
+        {
+            "question": "mission",
+            "answer": "rèn wù"
+        },
+        {
+            "question": "model",
+            "answer": "mó xíng"
+        },
+        {
+            "question": "modern",
+            "answer": "xiàn dài"
+        },
+        {
+            "question": "moment",
+            "answer": "shí kè"
+        },
+        {
+            "question": "money",
+            "answer": "qián"
+        },
+        {
+            "question": "month",
+            "answer": "yuè"
+        },
+        {
+            "question": "more",
+            "answer": "gèng duō"
+        },
+        {
+            "question": "morning",
+            "answer": "zǎo shàng"
+        },
+        {
+            "question": "most",
+            "answer": "zuì duō"
+        },
+        {
+            "question": "mother",
+            "answer": "mǔ qīn"
+        },
+        {
+            "question": "mouth",
+            "answer": "zuǐ"
+        },
+        {
+            "question": "move",
+            "answer": "yùn dòng"
+        },
+        {
+            "question": "movement",
+            "answer": "yùn dòng"
+        },
+        {
+            "question": "movie",
+            "answer": "diàn yǐng"
+        },
+        {
+            "question": "Mr",
+            "answer": "xiān shēng"
+        },
+        {
+            "question": "Mrs",
+            "answer": "tài tài"
+        },
+        {
+            "question": "much",
+            "answer": "hěn duō"
+        },
+        {
+            "question": "music",
+            "answer": "yīn yuè"
+        },
+        {
+            "question": "must",
+            "answer": "bì xū"
+        },
+        {
+            "question": "my",
+            "answer": "wǒ de"
+        },
+        {
+            "question": "myself",
+            "answer": "wǒ zì jǐ"
+        },
+        {
+            "question": "name",
+            "answer": "míng zì"
+        },
+        {
+            "question": "nation",
+            "answer": "guó jiā"
+        },
+        {
+            "question": "national",
+            "answer": "guó jiā"
+        },
+        {
+            "question": "natural",
+            "answer": "zì rán"
+        },
+        {
+            "question": "nature",
+            "answer": "zì rán"
+        },
+        {
+            "question": "near",
+            "answer": "jìn"
+        },
+        {
+            "question": "nearly",
+            "answer": "chà bù duō"
+        },
+        {
+            "question": "necessary",
+            "answer": "bì yào"
+        },
+        {
+            "question": "need",
+            "answer": "xū yào"
+        },
+        {
+            "question": "network",
+            "answer": "wǎng luò"
+        },
+        {
+            "question": "never",
+            "answer": "cóng bù"
+        },
+        {
+            "question": "new",
+            "answer": "xīn"
+        },
+        {
+            "question": "news",
+            "answer": "xīn wén"
+        },
+        {
+            "question": "newspaper",
+            "answer": "bào zhǐ"
+        },
+        {
+            "question": "next",
+            "answer": "xià yī gè"
+        },
+        {
+            "question": "nice",
+            "answer": "hǎo"
+        },
+        {
+            "question": "night",
+            "answer": "yè wǎn"
+        },
+        {
+            "question": "no",
+            "answer": "bù"
+        },
+        {
+            "question": "none",
+            "answer": "méi yǒu"
+        },
+        {
+            "question": "nor",
+            "answer": "bìng"
+        },
+        {
+            "question": "north",
+            "answer": "běi"
+        },
+        {
+            "question": "not",
+            "answer": "bù"
+        },
+        {
+            "question": "note",
+            "answer": "bǐ jì"
+        },
+        {
+            "question": "nothing",
+            "answer": "méi yǒu"
+        },
+        {
+            "question": "notice",
+            "answer": "zhù yì"
+        },
+        {
+            "question": "now",
+            "answer": "xiàn zài"
+        },
+        {
+            "question": "number",
+            "answer": "shù zì"
+        },
+        {
+            "question": "occur",
+            "answer": "fā shēng"
+        },
+        {
+            "question": "of",
+            "answer": "de"
+        },
+        {
+            "question": "off",
+            "answer": "guān"
+        },
+        {
+            "question": "offer",
+            "answer": "tí gōng"
+        },
+        {
+            "question": "office",
+            "answer": "bàn gōng shì"
+        },
+        {
+            "question": "officer",
+            "answer": "guān yuán"
+        },
+        {
+            "question": "official",
+            "answer": "guān fāng"
+        },
+        {
+            "question": "often",
+            "answer": "jīng cháng"
+        },
+        {
+            "question": "oh",
+            "answer": "ō"
+        },
+        {
+            "question": "oil",
+            "answer": "yóu"
+        },
+        {
+            "question": "ok",
+            "answer": "hǎo"
+        },
+        {
+            "question": "old",
+            "answer": "lǎo"
+        },
+        {
+            "question": "on",
+            "answer": "shàng"
+        },
+        {
+            "question": "once",
+            "answer": "yī cì"
+        },
+        {
+            "question": "one",
+            "answer": "yī"
+        },
+        {
+            "question": "only",
+            "answer": "zhǐ yǒu"
+        },
+        {
+            "question": "onto",
+            "answer": "shàng"
+        },
+        {
+            "question": "open",
+            "answer": "kāi"
+        },
+        {
+            "question": "operation",
+            "answer": "yùn zuò"
+        },
+        {
+            "question": "opportunity",
+            "answer": "jī huì"
+        },
+        {
+            "question": "option",
+            "answer": "xuǎn xiàng"
+        },
+        {
+            "question": "or",
+            "answer": "huò zhě"
+        },
+        {
+            "question": "order",
+            "answer": "dìng dān"
+        },
+        {
+            "question": "organization",
+            "answer": "zǔ zhī"
+        },
+        {
+            "question": "other",
+            "answer": "qí tā"
+        },
+        {
+            "question": "others",
+            "answer": "qí tā"
+        },
+        {
+            "question": "our",
+            "answer": "wǒ men de"
+        },
+        {
+            "question": "out",
+            "answer": "chū"
+        },
+        {
+            "question": "outside",
+            "answer": "wài miàn"
+        },
+        {
+            "question": "over",
+            "answer": "guò"
+        },
+        {
+            "question": "own",
+            "answer": "zì jǐ de"
+        },
+        {
+            "question": "owner",
+            "answer": "zhǔ rén"
+        },
+        {
+            "question": "page",
+            "answer": "yè"
+        },
+        {
+            "question": "pain",
+            "answer": "téng tòng"
+        },
+        {
+            "question": "painting",
+            "answer": "huà"
+        },
+        {
+            "question": "paper",
+            "answer": "zhǐ"
+        },
+        {
+            "question": "parent",
+            "answer": "fù mǔ"
+        },
+        {
+            "question": "part",
+            "answer": "bù fèn"
+        },
+        {
+            "question": "participant",
+            "answer": "cān yù zhě"
+        },
+        {
+            "question": "particular",
+            "answer": "tè bié"
+        },
+        {
+            "question": "particularly",
+            "answer": "yóu qí"
+        },
+        {
+            "question": "partner",
+            "answer": "huǒ bàn"
+        },
+        {
+            "question": "party",
+            "answer": "jù huì"
+        },
+        {
+            "question": "pass",
+            "answer": "tōng guò"
+        },
+        {
+            "question": "past",
+            "answer": "guò qù"
+        },
+        {
+            "question": "patient",
+            "answer": "huàn zhě"
+        },
+        {
+            "question": "pattern",
+            "answer": "mó shì"
+        },
+        {
+            "question": "pay",
+            "answer": "fù kuǎn"
+        },
+        {
+            "question": "peace",
+            "answer": "hépíng"
+        },
+        {
+            "question": "people",
+            "answer": "rén men"
+        },
+        {
+            "question": "per",
+            "answer": "měi"
+        },
+        {
+            "question": "perform",
+            "answer": "biǎo yǎn"
+        },
+        {
+            "question": "performance",
+            "answer": "biǎo yǎn"
+        },
+        {
+            "question": "perhaps",
+            "answer": "kě néng"
+        },
+        {
+            "question": "period",
+            "answer": "qī jiān"
+        },
+        {
+            "question": "person",
+            "answer": "rén"
+        },
+        {
+            "question": "personal",
+            "answer": "gè rén"
+        },
+        {
+            "question": "phone",
+            "answer": "diàn huà"
+        },
+        {
+            "question": "physical",
+            "answer": "wù lǐ"
+        },
+        {
+            "question": "pick",
+            "answer": "jiǎn"
+        },
+        {
+            "question": "picture",
+            "answer": "tú piàn"
+        },
+        {
+            "question": "piece",
+            "answer": "kuài"
+        },
+        {
+            "question": "place",
+            "answer": "dì fāng"
+        },
+        {
+            "question": "plan",
+            "answer": "jì huà"
+        },
+        {
+            "question": "plant",
+            "answer": "zhí wù"
+        },
+        {
+            "question": "play",
+            "answer": "wán"
+        },
+        {
+            "question": "player",
+            "answer": "wán jiā"
+        },
+        {
+            "question": "PM",
+            "answer": "wǎn shàng"
+        },
+        {
+            "question": "point",
+            "answer": "diǎn"
+        },
+        {
+            "question": "police",
+            "answer": "jǐng chá"
+        },
+        {
+            "question": "policy",
+            "answer": "zhèng cè"
+        },
+        {
+            "question": "political",
+            "answer": "zhèng zhì"
+        },
+        {
+            "question": "politics",
+            "answer": "zhèng zhì"
+        },
+        {
+            "question": "poor",
+            "answer": "qióng"
+        },
+        {
+            "question": "popular",
+            "answer": "liú xíng"
+        },
+        {
+            "question": "population",
+            "answer": "rén kǒu"
+        },
+        {
+            "question": "position",
+            "answer": "wèi zhì"
+        },
+        {
+            "question": "positive",
+            "answer": "jī jí"
+        },
+        {
+            "question": "possible",
+            "answer": "kě néng"
+        },
+        {
+            "question": "power",
+            "answer": "lì liàng"
+        },
+        {
+            "question": "practice",
+            "answer": "liàn xí"
+        },
+        {
+            "question": "prepare",
+            "answer": "zhǔn bèi"
+        },
+        {
+            "question": "present",
+            "answer": "xiàn zài"
+        },
+        {
+            "question": "president",
+            "answer": "zǒng tǒng"
+        },
+        {
+            "question": "pressure",
+            "answer": "yā lì"
+        },
+        {
+            "question": "pretty",
+            "answer": "piào liang"
+        },
+        {
+            "question": "prevent",
+            "answer": "yù fáng"
+        },
+        {
+            "question": "price",
+            "answer": "jià gé"
+        },
+        {
+            "question": "private",
+            "answer": "sī rén"
+        },
+        {
+            "question": "probably",
+            "answer": "dà gài"
+        },
+        {
+            "question": "problem",
+            "answer": "wèn tí"
+        },
+        {
+            "question": "process",
+            "answer": "guò chéng"
+        },
+        {
+            "question": "produce",
+            "answer": "shēng chǎn"
+        },
+        {
+            "question": "product",
+            "answer": "chǎn pǐn"
+        },
+        {
+            "question": "production",
+            "answer": "shēng chǎn"
+        },
+        {
+            "question": "professional",
+            "answer": "zhí yè"
+        },
+        {
+            "question": "professor",
+            "answer": "jiào shòu"
+        },
+        {
+            "question": "program",
+            "answer": "chéng xù"
+        },
+        {
+            "question": "project",
+            "answer": "xiàng mù"
+        },
+        {
+            "question": "property",
+            "answer": "cái chǎn"
+        },
+        {
+            "question": "protect",
+            "answer": "bǎo hù"
+        },
+        {
+            "question": "prove",
+            "answer": "zhèng míng"
+        },
+        {
+            "question": "provide",
+            "answer": "tí gōng"
+        },
+        {
+            "question": "public",
+            "answer": "gōng zhòng"
+        },
+        {
+            "question": "pull",
+            "answer": "lā"
+        },
+        {
+            "question": "purpose",
+            "answer": "mù dì"
+        },
+        {
+            "question": "push",
+            "answer": "tuī"
+        },
+        {
+            "question": "put",
+            "answer": "fàng"
+        },
+        {
+            "question": "quality",
+            "answer": "zhì liàng"
+        },
+        {
+            "question": "question",
+            "answer": "wèn tí"
+        },
+        {
+            "question": "quickly",
+            "answer": "kuài sù"
+        },
+        {
+            "question": "quite",
+            "answer": "hěn"
+        },
+        {
+            "question": "race",
+            "answer": "sài pǎo"
+        },
+        {
+            "question": "radio",
+            "answer": "guǎng bō"
+        },
+        {
+            "question": "raise",
+            "answer": "jǔ"
+        },
+        {
+            "question": "range",
+            "answer": "fàn wéi"
+        },
+        {
+            "question": "rate",
+            "answer": "lǜ"
+        },
+        {
+            "question": "rather",
+            "answer": "níng yuàn"
+        },
+        {
+            "question": "reach",
+            "answer": "dá dào"
+        },
+        {
+            "question": "read",
+            "answer": "dú"
+        },
+        {
+            "question": "ready",
+            "answer": "zhǔn bèi hǎo"
+        },
+        {
+            "question": "real",
+            "answer": "zhēn"
+        },
+        {
+            "question": "reality",
+            "answer": "xiàn shí"
+        },
+        {
+            "question": "realize",
+            "answer": "shí xiàn"
+        },
+        {
+            "question": "really",
+            "answer": "zhēn"
+        },
+        {
+            "question": "reason",
+            "answer": "yuán yīn"
+        },
+        {
+            "question": "receive",
+            "answer": "shōu dào"
+        },
+        {
+            "question": "recent",
+            "answer": "zuì jìn"
+        },
+        {
+            "question": "recently",
+            "answer": "zuì jìn"
+        },
+        {
+            "question": "recognize",
+            "answer": "rèn shí"
+        },
+        {
+            "question": "record",
+            "answer": "jì lù"
+        },
+        {
+            "question": "red",
+            "answer": "hóng"
+        },
+        {
+            "question": "reduce",
+            "answer": "jiǎn shǎo"
+        },
+        {
+            "question": "reflect",
+            "answer": "fǎn yìng"
+        },
+        {
+            "question": "region",
+            "answer": "dì qū"
+        },
+        {
+            "question": "relate",
+            "answer": "guān lián"
+        },
+        {
+            "question": "relationship",
+            "answer": "guān xì"
+        },
+        {
+            "question": "religious",
+            "answer": "zōng jiào"
+        },
+        {
+            "question": "remain",
+            "answer": "bǎo chí"
+        },
+        {
+            "question": "remember",
+            "answer": "jì dé"
+        },
+        {
+            "question": "remove",
+            "answer": "qù chú"
+        },
+        {
+            "question": "report",
+            "answer": "bào gào"
+        },
+        {
+            "question": "represent",
+            "answer": "dài biǎo"
+        },
+        {
+            "question": "Republican",
+            "answer": "gòng hé dǎng"
+        },
+        {
+            "question": "require",
+            "answer": "xū yào"
+        },
+        {
+            "question": "research",
+            "answer": "yán jiū"
+        },
+        {
+            "question": "resource",
+            "answer": "zī yuán"
+        },
+        {
+            "question": "respond",
+            "answer": "huí yīng"
+        },
+        {
+            "question": "response",
+            "answer": "huí yīng"
+        },
+        {
+            "question": "responsibility",
+            "answer": "zé rèn"
+        },
+        {
+            "question": "rest",
+            "answer": "xiū xí"
+        },
+        {
+            "question": "result",
+            "answer": "jié guǒ"
+        },
+        {
+            "question": "return",
+            "answer": "huí lái"
+        },
+        {
+            "question": "reveal",
+            "answer": "tōu lù"
+        },
+        {
+            "question": "rich",
+            "answer": "fù yǒu"
+        },
+        {
+            "question": "right",
+            "answer": "duì"
+        },
+        {
+            "question": "rise",
+            "answer": "shēng qǐ"
+        },
+        {
+            "question": "risk",
+            "answer": "fēng xiǎn"
+        },
+        {
+            "question": "road",
+            "answer": "lù"
+        },
+        {
+            "question": "rock",
+            "answer": "yán shí"
+        },
+        {
+            "question": "role",
+            "answer": "jué sè"
+        },
+        {
+            "question": "room",
+            "answer": "fáng jiān"
+        },
+        {
+            "question": "rule",
+            "answer": "guī zé"
+        },
+        {
+            "question": "run",
+            "answer": "pǎo"
+        },
+        {
+            "question": "safe",
+            "answer": "ān quán"
+        },
+        {
+            "question": "same",
+            "answer": "xiāng tóng"
+        },
+        {
+            "question": "save",
+            "answer": "bǎo cún"
+        },
+        {
+            "question": "say",
+            "answer": "shuō"
+        },
+        {
+            "question": "scene",
+            "answer": "chǎng jǐng"
+        },
+        {
+            "question": "school",
+            "answer": "xué xiào"
+        },
+        {
+            "question": "science",
+            "answer": "kē xué"
+        },
+        {
+            "question": "scientist",
+            "answer": "kē xué jiā"
+        },
+        {
+            "question": "score",
+            "answer": "fēn shù"
+        },
+        {
+            "question": "sea",
+            "answer": "hǎi"
+        },
+        {
+            "question": "season",
+            "answer": "jì jié"
+        },
+        {
+            "question": "seat",
+            "answer": "zuò wèi"
+        },
+        {
+            "question": "second",
+            "answer": "dì èr"
+        },
+        {
+            "question": "section",
+            "answer": "bù fèn"
+        },
+        {
+            "question": "security",
+            "answer": "ān quán"
+        },
+        {
+            "question": "see",
+            "answer": "kàn"
+        },
+        {
+            "question": "seek",
+            "answer": "xún zhǎo"
+        },
+        {
+            "question": "seem",
+            "answer": "kàn qǐ lái"
+        },
+        {
+            "question": "sell",
+            "answer": "mài"
+        },
+        {
+            "question": "send",
+            "answer": "fā sòng"
+        },
+        {
+            "question": "senior",
+            "answer": "gāo jí"
+        },
+        {
+            "question": "sense",
+            "answer": "gǎn jué"
+        },
+        {
+            "question": "series",
+            "answer": "xì liè"
+        },
+        {
+            "question": "serious",
+            "answer": "yán zhòng"
+        },
+        {
+            "question": "serve",
+            "answer": "fú wù"
+        },
+        {
+            "question": "service",
+            "answer": "fú wù"
+        },
+        {
+            "question": "set",
+            "answer": "shè zhì"
+        },
+        {
+            "question": "seven",
+            "answer": "qī"
+        },
+        {
+            "question": "several",
+            "answer": "jǐ"
+        },
+        {
+            "question": "sex",
+            "answer": "xìng"
+        },
+        {
+            "question": "sexual",
+            "answer": "xìng"
+        },
+        {
+            "question": "shake",
+            "answer": "yáo"
+        },
+        {
+            "question": "share",
+            "answer": "fēn xiǎng"
+        },
+        {
+            "question": "she",
+            "answer": "tā"
+        },
+        {
+            "question": "shoot",
+            "answer": "shè jí"
+        },
+        {
+            "question": "short",
+            "answer": "duǎn"
+        },
+        {
+            "question": "shot",
+            "answer": "shè jí"
+        },
+        {
+            "question": "should",
+            "answer": "yīng gāi"
+        },
+        {
+            "question": "shoulder",
+            "answer": "jiān bǎng"
+        },
+        {
+            "question": "show",
+            "answer": "zhǎn shì"
+        },
+        {
+            "question": "side",
+            "answer": "cè"
+        },
+        {
+            "question": "sign",
+            "answer": "qiān míng"
+        },
+        {
+            "question": "significant",
+            "answer": "zhòng yào"
+        },
+        {
+            "question": "similar",
+            "answer": "xiāng sì"
+        },
+        {
+            "question": "simple",
+            "answer": "jiǎn dān"
+        },
+        {
+            "question": "simply",
+            "answer": "jiǎn dān"
+        },
+        {
+            "question": "since",
+            "answer": "yīn wéi"
+        },
+        {
+            "question": "sing",
+            "answer": "chàng"
+        },
+        {
+            "question": "single",
+            "answer": "dān"
+        },
+        {
+            "question": "sister",
+            "answer": "mèi mèi"
+        },
+        {
+            "question": "sit",
+            "answer": "zuò"
+        },
+        {
+            "question": "site",
+            "answer": "wǎng zhàn"
+        },
+        {
+            "question": "situation",
+            "answer": "qíng kuàng"
+        },
+        {
+            "question": "six",
+            "answer": "liù"
+        },
+        {
+            "question": "size",
+            "answer": "dà xiǎo"
+        },
+        {
+            "question": "skill",
+            "answer": "jì néng"
+        },
+        {
+            "question": "skin",
+            "answer": "pí fū"
+        },
+        {
+            "question": "small",
+            "answer": "xiǎo"
+        },
+        {
+            "question": "smile",
+            "answer": "wéi xiào"
+        },
+        {
+            "question": "so",
+            "answer": "suǒ yǐ"
+        },
+        {
+            "question": "social",
+            "answer": "shè huì"
+        },
+        {
+            "question": "society",
+            "answer": "shè huì"
+        },
+        {
+            "question": "soldier",
+            "answer": "shì bīng"
+        },
+        {
+            "question": "some",
+            "answer": "yī xiē"
+        },
+        {
+            "question": "somebody",
+            "answer": "yǒu rén"
+        },
+        {
+            "question": "someone",
+            "answer": "yǒu rén"
+        },
+        {
+            "question": "something",
+            "answer": "shì qíng"
+        },
+        {
+            "question": "sometimes",
+            "answer": "yǒu shí"
+        },
+        {
+            "question": "son",
+            "answer": "ér zi"
+        },
+        {
+            "question": "song",
+            "answer": "gē qǔ"
+        },
+        {
+            "question": "soon",
+            "answer": "bù jiǔ"
+        },
+        {
+            "question": "sort",
+            "answer": "zhǒng"
+        },
+        {
+            "question": "sound",
+            "answer": "shēng yīn"
+        },
+        {
+            "question": "source",
+            "answer": "lái yuán"
+        },
+        {
+            "question": "south",
+            "answer": "nán"
+        },
+        {
+            "question": "southern",
+            "answer": "nán fāng"
+        },
+        {
+            "question": "space",
+            "answer": "kōng jiān"
+        },
+        {
+            "question": "speak",
+            "answer": "shuō huà"
+        },
+        {
+            "question": "special",
+            "answer": "tè bié"
+        },
+        {
+            "question": "specific",
+            "answer": "jù tǐ"
+        },
+        {
+            "question": "speech",
+            "answer": "yǎn jiǎng"
+        },
+        {
+            "question": "spend",
+            "answer": "huā fèi"
+        },
+        {
+            "question": "sport",
+            "answer": "yùn dòng"
+        },
+        {
+            "question": "spring",
+            "answer": "chūn tiān"
+        },
+        {
+            "question": "staff",
+            "answer": "zhí yuán"
+        },
+        {
+            "question": "stage",
+            "answer": "wǔ tái"
+        },
+        {
+            "question": "stand",
+            "answer": "zhàn"
+        },
+        {
+            "question": "standard",
+            "answer": "biāo zhǔn"
+        },
+        {
+            "question": "star",
+            "answer": "xīng xīng"
+        },
+        {
+            "question": "start",
+            "answer": "kāi shǐ"
+        },
+        {
+            "question": "state",
+            "answer": "guó jiā"
+        },
+        {
+            "question": "statement",
+            "answer": "chén shù"
+        },
+        {
+            "question": "station",
+            "answer": "zhàn"
+        },
+        {
+            "question": "stay",
+            "answer": "dāi"
+        },
+        {
+            "question": "step",
+            "answer": "bù zhòu"
+        },
+        {
+            "question": "still",
+            "answer": "rén rán"
+        },
+        {
+            "question": "stock",
+            "answer": "gǔ piào"
+        },
+        {
+            "question": "stop",
+            "answer": "tíng"
+        },
+        {
+            "question": "store",
+            "answer": "shāng diàn"
+        },
+        {
+            "question": "story",
+            "answer": "gù shì"
+        },
+        {
+            "question": "strategy",
+            "answer": "zhàn lüè"
+        },
+        {
+            "question": "street",
+            "answer": "jiē dào"
+        },
+        {
+            "question": "strong",
+            "answer": "qiáng zhuàng"
+        },
+        {
+            "question": "structure",
+            "answer": "jié gòu"
+        },
+        {
+            "question": "student",
+            "answer": "xué shēng"
+        },
+        {
+            "question": "study",
+            "answer": "xué xí"
+        },
+        {
+            "question": "stuff",
+            "answer": "dōng xī"
+        },
+        {
+            "question": "style",
+            "answer": "fēng gé"
+        },
+        {
+            "question": "subject",
+            "answer": "zhǔ tí"
+        },
+        {
+            "question": "success",
+            "answer": "chéng gōng"
+        },
+        {
+            "question": "successful",
+            "answer": "chéng gōng"
+        },
+        {
+            "question": "such",
+            "answer": "zhè yàng de"
+        },
+        {
+            "question": "suddenly",
+            "answer": "tū rán"
+        },
+        {
+            "question": "suffer",
+            "answer": "shòu kǔ"
+        },
+        {
+            "question": "suggest",
+            "answer": "jiàn yì"
+        },
+        {
+            "question": "summer",
+            "answer": "xià tiān"
+        },
+        {
+            "question": "support",
+            "answer": "zhī chí"
+        },
+        {
+            "question": "sure",
+            "answer": "què dìng"
+        },
+        {
+            "question": "surface",
+            "answer": "biǎo miàn"
+        },
+        {
+            "question": "system",
+            "answer": "xì tǒng"
+        },
+        {
+            "question": "table",
+            "answer": "zhuō zi"
+        },
+        {
+            "question": "take",
+            "answer": "ná"
+        },
+        {
+            "question": "talk",
+            "answer": "tán huà"
+        },
+        {
+            "question": "task",
+            "answer": "rèn wù"
+        },
+        {
+            "question": "tax",
+            "answer": "shuì"
+        },
+        {
+            "question": "teach",
+            "answer": "jiào"
+        },
+        {
+            "question": "teacher",
+            "answer": "lǎo shī"
+        },
+        {
+            "question": "team",
+            "answer": "tuán duì"
+        },
+        {
+            "question": "technology",
+            "answer": "kē jì"
+        },
+        {
+            "question": "television",
+            "answer": "diàn shì"
+        },
+        {
+            "question": "tell",
+            "answer": "gào sù"
+        },
+        {
+            "question": "ten",
+            "answer": "shí"
+        },
+        {
+            "question": "tend",
+            "answer": "qū xiàng"
+        },
+        {
+            "question": "term",
+            "answer": "qī"
+        },
+        {
+            "question": "test",
+            "answer": "kǎo shì"
+        },
+        {
+            "question": "than",
+            "answer": "bǐ"
+        },
+        {
+            "question": "thank",
+            "answer": "xiè xiè"
+        },
+        {
+            "question": "that",
+            "answer": "nà"
+        },
+        {
+            "question": "the",
+            "answer": "zhè"
+        },
+        {
+            "question": "their",
+            "answer": "tāmen de"
+        },
+        {
+            "question": "them",
+            "answer": "tāmen"
+        },
+        {
+            "question": "themselves",
+            "answer": "zìjǐ"
+        },
+        {
+            "question": "then",
+            "answer": "ránhòu"
+        },
+        {
+            "question": "theory",
+            "answer": "lǐlùn"
+        },
+        {
+            "question": "there",
+            "answer": "nàlǐ"
+        },
+        {
+            "question": "these",
+            "answer": "zhèxiē"
+        },
+        {
+            "question": "they",
+            "answer": "tāmen"
+        },
+        {
+            "question": "thing",
+            "answer": "shìqíng"
+        },
+        {
+            "question": "think",
+            "answer": "xiǎng"
+        },
+        {
+            "question": "third",
+            "answer": "dì sān"
+        },
+        {
+            "question": "this",
+            "answer": "zhè"
+        },
+        {
+            "question": "those",
+            "answer": "nàxiē"
+        },
+        {
+            "question": "though",
+            "answer": "sui rán"
+        },
+        {
+            "question": "thought",
+            "answer": "xiǎng fǎ"
+        },
+        {
+            "question": "thousand",
+            "answer": "qiān"
+        },
+        {
+            "question": "threat",
+            "answer": "wēi xié"
+        },
+        {
+            "question": "three",
+            "answer": "sān"
+        },
+        {
+            "question": "through",
+            "answer": "tōng guò"
+        },
+        {
+            "question": "throughout",
+            "answer": "sùi chuán"
+        },
+        {
+            "question": "throw",
+            "answer": "diū"
+        },
+        {
+            "question": "thus",
+            "answer": "yīn cǐ"
+        },
+        {
+            "question": "time",
+            "answer": "shí jiān"
+        },
+        {
+            "question": "to",
+            "answer": "dào"
+        },
+        {
+            "question": "today",
+            "answer": "jīn tiān"
+        },
+        {
+            "question": "together",
+            "answer": "yì qǐ"
+        },
+        {
+            "question": "tonight",
+            "answer": "jīn wǎn"
+        },
+        {
+            "question": "too",
+            "answer": "tài"
+        },
+        {
+            "question": "top",
+            "answer": "dǐng"
+        },
+        {
+            "question": "total",
+            "answer": "zǒng gòng"
+        },
+        {
+            "question": "tough",
+            "answer": "yīng gài"
+        },
+        {
+            "question": "toward",
+            "answer": "xiàng"
+        },
+        {
+            "question": "town",
+            "answer": "xiāng"
+        },
+        {
+            "question": "trade",
+            "answer": "mào yì"
+        },
+        {
+            "question": "traditional",
+            "answer": "chuán tǒng"
+        },
+        {
+            "question": "training",
+            "answer": "péi xùn"
+        },
+        {
+            "question": "travel",
+            "answer": "lǚ yóu"
+        },
+        {
+            "question": "treat",
+            "answer": "dǎi lǐ"
+        },
+        {
+            "question": "treatment",
+            "answer": "zhì liáo"
+        },
+        {
+            "question": "tree",
+            "answer": "shù"
+        },
+        {
+            "question": "trial",
+            "answer": "shì yàn"
+        },
+        {
+            "question": "trip",
+            "answer": "lǚ chéng"
+        },
+        {
+            "question": "trouble",
+            "answer": "má fan"
+        },
+        {
+            "question": "true",
+            "answer": "zhēn"
+        },
+        {
+            "question": "truth",
+            "answer": "zhēn lǐ"
+        },
+        {
+            "question": "try",
+            "answer": "shì yàn"
+        },
+        {
+            "question": "turn",
+            "answer": "zhǔan"
+        },
+        {
+            "question": "TV",
+            "answer": "dì shì"
+        },
+        {
+            "question": "two",
+            "answer": "liǎng"
+        },
+        {
+            "question": "type",
+            "answer": "xíng"
+        },
+        {
+            "question": "under",
+            "answer": "xià"
+        },
+        {
+            "question": "understand",
+            "answer": "lǐ jiě"
+        },
+        {
+            "question": "unit",
+            "answer": "dān wèi"
+        },
+        {
+            "question": "until",
+            "answer": "dào"
+        },
+        {
+            "question": "up",
+            "answer": "shàng"
+        },
+        {
+            "question": "upon",
+            "answer": "yú"
+        },
+        {
+            "question": "us",
+            "answer": "wǒ men"
+        },
+        {
+            "question": "use",
+            "answer": "shǐ"
+        },
+        {
+            "question": "usually",
+            "answer": "tōng cháng"
+        },
+        {
+            "question": "value",
+            "answer": "jià zhí"
+        },
+        {
+            "question": "various",
+            "answer": "zhǒng"
+        },
+        {
+            "question": "very",
+            "answer": "hěn"
+        },
+        {
+            "question": "victim",
+            "answer": "shòu hài zhě"
+        },
+        {
+            "question": "view",
+            "answer": "kàn fǎ"
+        },
+        {
+            "question": "violence",
+            "answer": "bào lì"
+        },
+        {
+            "question": "visit",
+            "answer": "fāng wèn"
+        },
+        {
+            "question": "voice",
+            "answer": "shēng yīn"
+        },
+        {
+            "question": "vote",
+            "answer": "tóu piào"
+        },
+        {
+            "question": "wait",
+            "answer": "děng dài"
+        },
+        {
+            "question": "walk",
+            "answer": "zǒu"
+        },
+        {
+            "question": "wall",
+            "answer": "qiáng"
+        },
+        {
+            "question": "want",
+            "answer": "yào"
+        },
+        {
+            "question": "war",
+            "answer": "zhàn zhēng"
+        },
+        {
+            "question": "watch",
+            "answer": "kàn"
+        },
+        {
+            "question": "water",
+            "answer": "shuǐ"
+        },
+        {
+            "question": "way",
+            "answer": "fāng shì"
+        },
+        {
+            "question": "we",
+            "answer": "wǒ men"
+        },
+        {
+            "question": "weapon",
+            "answer": "wǔ qì"
+        },
+        {
+            "question": "wear",
+            "answer": "chuān"
+        },
+        {
+            "question": "week",
+            "answer": "xīng qī"
+        },
+        {
+            "question": "weight",
+            "answer": "zhòng liàng"
+        },
+        {
+            "question": "well",
+            "answer": "hǎo"
+        },
+        {
+            "question": "west",
+            "answer": "xī"
+        },
+        {
+            "question": "western",
+            "answer": "xī fāng"
+        },
+        {
+            "question": "what",
+            "answer": "shén me"
+        },
+        {
+            "question": "whatever",
+            "answer": "wú lùn"
+        },
+        {
+            "question": "when",
+            "answer": "shén me shí hòu"
+        },
+        {
+            "question": "where",
+            "answer": "nǎ lǐ"
+        },
+        {
+            "question": "whether",
+            "answer": "bù guǎn shì"
+        },
+        {
+            "question": "which",
+            "answer": "nǎ ge"
+        },
+        {
+            "question": "while",
+            "answer": "dàn shì"
+        },
+        {
+            "question": "white",
+            "answer": "bái sè"
+        },
+        {
+            "question": "who",
+            "answer": "shéi"
+        },
+        {
+            "question": "whole",
+            "answer": "zhěng gè"
+        },
+        {
+            "question": "whom",
+            "answer": "shéi de"
+        },
+        {
+            "question": "whose",
+            "answer": "shéi de"
+        },
+        {
+            "question": "why",
+            "answer": "wèi shén me"
+        },
+        {
+            "question": "wide",
+            "answer": "kuān"
+        },
+        {
+            "question": "wife",
+            "answer": "qī zi"
+        },
+        {
+            "question": "will",
+            "answer": "huì"
+        },
+        {
+            "question": "win",
+            "answer": "yíng"
+        },
+        {
+            "question": "wind",
+            "answer": "fēng"
+        },
+        {
+            "question": "window",
+            "answer": "chuāng hu"
+        },
+        {
+            "question": "wish",
+            "answer": "yù wàng"
+        },
+        {
+            "question": "with",
+            "answer": "yǔ"
+        },
+        {
+            "question": "within",
+            "answer": "zài nèi"
+        },
+        {
+            "question": "without",
+            "answer": "méi yǒu"
+        },
+        {
+            "question": "woman",
+            "answer": "nǚ rén"
+        },
+        {
+            "question": "wonder",
+            "answer": "qí wù"
+        },
+        {
+            "question": "word",
+            "answer": "cí"
+        },
+        {
+            "question": "work",
+            "answer": "gōng zuò"
+        },
+        {
+            "question": "worker",
+            "answer": "gōng rén"
+        },
+        {
+            "question": "world",
+            "answer": "shì jiè"
+        },
+        {
+            "question": "worry",
+            "answer": "dān xīn"
+        },
+        {
+            "question": "would",
+            "answer": "huì"
+        },
+        {
+            "question": "write",
+            "answer": "xiě"
+        },
+        {
+            "question": "writer",
+            "answer": "zuò jiā"
+        },
+        {
+            "question": "wrong",
+            "answer": "cuò wù"
+        },
+        {
+            "question": "yard",
+            "answer": "yáng jǐng"
+        },
+        {
+            "question": "yeah",
+            "answer": "shì de"
+        },
+        {
+            "question": "year",
+            "answer": "nián"
+        },
+        {
+            "question": "yes",
+            "answer": "shì de"
+        },
+        {
+            "question": "yet",
+            "answer": "hái"
+        },
+        {
+            "question": "you",
+            "answer": "nǐ"
+        },
+        {
+            "question": "young",
+            "answer": "nián qīng"
+        },
+        {
+            "question": "your",
+            "answer": "nǐ de"
+        },
+        {
+            "question": "yourself",
+            "answer": "zì jǐ"
+        }
+    ]
+}
