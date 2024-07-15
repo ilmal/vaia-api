@@ -76,5 +76,5 @@ def main(STUDYSET):
 if __name__ == "__main__":
     load_dotenv()
 
-    STUDYSET = "studysets/200-words.json"
+    STUDYSET = "studysets/100-words.json"
     main(STUDYSET)

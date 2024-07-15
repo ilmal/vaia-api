@@ -1,0 +1,405 @@
+{
+    "studyset": "22676482", 
+    "data": [
+        {
+            "question": "time",
+            "answer": "shí jiān"
+        },
+        {
+            "question": "year",
+            "answer": "nián"
+        },
+        {
+            "question": "people",
+            "answer": "rén"
+        },
+        {
+            "question": "way",
+            "answer": "fāng shì"
+        },
+        {
+            "question": "day",
+            "answer": "rì"
+        },
+        {
+            "question": "man",
+            "answer": "nán rén"
+        },
+        {
+            "question": "thing",
+            "answer": "shì"
+        },
+        {
+            "question": "woman",
+            "answer": "nǚ rén"
+        },
+        {
+            "question": "life",
+            "answer": "shēng huó"
+        },
+        {
+            "question": "child",
+            "answer": "ér tóng"
+        },
+        {
+            "question": "world",
+            "answer": "shì jiè"
+        },
+        {
+            "question": "school",
+            "answer": "xué xiào"
+        },
+        {
+            "question": "state",
+            "answer": "zhèng fǔ"
+        },
+        {
+            "question": "family",
+            "answer": "jiā tíng"
+        },
+        {
+            "question": "student",
+            "answer": "xué shēng"
+        },
+        {
+            "question": "group",
+            "answer": "zǔ zhī"
+        },
+        {
+            "question": "country",
+            "answer": "guó jiā"
+        },
+        {
+            "question": "problem",
+            "answer": "wèn tí"
+        },
+        {
+            "question": "hand",
+            "answer": "shǒu"
+        },
+        {
+            "question": "part",
+            "answer": "bù fèn"
+        },
+        {
+            "question": "place",
+            "answer": "dì fāng"
+        },
+        {
+            "question": "case",
+            "answer": "àn"
+        },
+        {
+            "question": "week",
+            "answer": "xīng qī"
+        },
+        {
+            "question": "company",
+            "answer": "gōng sī"
+        },
+        {
+            "question": "system",
+            "answer": "xì tǒng"
+        },
+        {
+            "question": "program",
+            "answer": "chéng xu"
+        },
+        {
+            "question": "question",
+            "answer": "wèn tí"
+        },
+        {
+            "question": "work",
+            "answer": "gōng zuò"
+        },
+        {
+            "question": "government",
+            "answer": "zhèng fǔ"
+        },
+        {
+            "question": "number",
+            "answer": "shù zì"
+        },
+        {
+            "question": "night",
+            "answer": "yè"
+        },
+        {
+            "question": "point",
+            "answer": "diǎn"
+        },
+        {
+            "question": "home",
+            "answer": "jiā"
+        },
+        {
+            "question": "water",
+            "answer": "shuǐ"
+        },
+        {
+            "question": "room",
+            "answer": "fáng jiān"
+        },
+        {
+            "question": "mother",
+            "answer": "mǔ qīn"
+        },
+        {
+            "question": "area",
+            "answer": "qū yù"
+        },
+        {
+            "question": "money",
+            "answer": "qián"
+        },
+        {
+            "question": "story",
+            "answer": "gù shi"
+        },
+        {
+            "question": "fact",
+            "answer": "shí shì"
+        },
+        {
+            "question": "month",
+            "answer": "yuè"
+        },
+        {
+            "question": "lot",
+            "answer": "hěn duō"
+        },
+        {
+            "question": "right",
+            "answer": "duì"
+        },
+        {
+            "question": "study",
+            "answer": "xué xí"
+        },
+        {
+            "question": "book",
+            "answer": "shū"
+        },
+        {
+            "question": "eye",
+            "answer": "yǎn jīng"
+        },
+        {
+            "question": "job",
+            "answer": "gōng zuò"
+        },
+        {
+            "question": "word",
+            "answer": "cí"
+        },
+        {
+            "question": "business",
+            "answer": "shāng yè"
+        },
+        {
+            "question": "issue",
+            "answer": "wèn tí"
+        },
+        {
+            "question": "side",
+            "answer": "biān"
+        },
+        {
+            "question": "kind",
+            "answer": "zhǒng lèi"
+        },
+        {
+            "question": "head",
+            "answer": "tóu"
+        },
+        {
+            "question": "house",
+            "answer": "fáng zi"
+        },
+        {
+            "question": "service",
+            "answer": "fú wù"
+        },
+        {
+            "question": "friend",
+            "answer": "péng yǒu"
+        },
+        {
+            "question": "father",
+            "answer": "fù qīn"
+        },
+        {
+            "question": "power",
+            "answer": "lì"
+        },
+        {
+            "question": "hour",
+            "answer": "xiǎo shí"
+        },
+        {
+            "question": "game",
+            "answer": "yóu xì"
+        },
+        {
+            "question": "line",
+            "answer": "xiàn"
+        },
+        {
+            "question": "end",
+            "answer": "jié shù"
+        },
+        {
+            "question": "member",
+            "answer": "chéng yuán"
+        },
+        {
+            "question": "law",
+            "answer": "fǎ lǜ"
+        },
+        {
+            "question": "car",
+            "answer": "qì chē"
+        },
+        {
+            "question": "city",
+            "answer": "chéng shì"
+        },
+        {
+            "question": "community",
+            "answer": "shè qū"
+        },
+        {
+            "question": "name",
+            "answer": "míng zì"
+        },
+        {
+            "question": "president",
+            "answer": "zǒng tǒng"
+        },
+        {
+            "question": "team",
+            "answer": "duì wǔ"
+        },
+        {
+            "question": "minute",
+            "answer": "fēn zhōng"
+        },
+        {
+            "question": "idea",
+            "answer": "gè diǎn"
+        },
+        {
+            "question": "kid",
+            "answer": "hái zi"
+        },
+        {
+            "question": "body",
+            "answer": "shēn tǐ"
+        },
+        {
+            "question": "information",
+            "answer": "xìn xī"
+        },
+        {
+            "question": "back",
+            "answer": "bèi hòu"
+        },
+        {
+            "question": "parent",
+            "answer": "fù mǔ"
+        },
+        {
+            "question": "face",
+            "answer": "liǎn"
+        },
+        {
+            "question": "others",
+            "answer": "qí tā rén"
+        },
+        {
+            "question": "level",
+            "answer": "chéng dù"
+        },
+        {
+            "question": "office",
+            "answer": "bàn gōng shì"
+        },
+        {
+            "question": "door",
+            "answer": "mén"
+        },
+        {
+            "question": "health",
+            "answer": "jiàn kāng"
+        },
+        {
+            "question": "person",
+            "answer": "rén"
+        },
+        {
+            "question": "art",
+            "answer": "yì shù"
+        },
+        {
+            "question": "war",
+            "answer": "zhàn zhēng"
+        },
+        {
+            "question": "history",
+            "answer": "lì shǐ"
+        },
+        {
+            "question": "party",
+            "answer": "dǎng pái"
+        },
+        {
+            "question": "result",
+            "answer": "jié guǒ"
+        },
+        {
+            "question": "change",
+            "answer": "biàn"
+        },
+        {
+            "question": "morning",
+            "answer": "zǎo shàng"
+        },
+        {
+            "question": "reason",
+            "answer": "yuán yīn"
+        },
+        {
+            "question": "research",
+            "answer": "yán jiū"
+        },
+        {
+            "question": "girl",
+            "answer": "nǚ hái"
+        },
+        {
+            "question": "guy",
+            "answer": "nán hái"
+        },
+        {
+            "question": "moment",
+            "answer": "shùn jiān"
+        },
+        {
+            "question": "air",
+            "answer": "kōng qì"
+        },
+        {
+            "question": "teacher",
+            "answer": "lǎo shī"
+        },
+        {
+            "question": "force",
+            "answer": "lì"
+        },
+        {
+            "question": "education",
+            "answer": "jiào yù"
+        }
+    ]
+}
