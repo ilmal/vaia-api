@@ -29,13 +29,13 @@ def add_cart(token, s_id, data):
         "tags": [],
         "question_html": [
             {
-            "text": f"<p>{data["question"]}</p>",
+            "text": f"<p>{data['question']}</p>",
             "is_correct": True
             }
         ],
         "answer_html": [
             {
-            "text": f"<p>{data["answer"]}</p>",
+            "text": f"<p>{data['answer']}</p>",
             "is_correct": True
             }
         ],
@@ -76,5 +76,5 @@ def main(STUDYSET):
 if __name__ == "__main__":
     load_dotenv()
 
-    STUDYSET = "studysets/100-words.json"
+    STUDYSET = "studysets/100p2-words.json"
     main(STUDYSET)
