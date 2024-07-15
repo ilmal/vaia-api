@@ -1,0 +1,405 @@
+{
+    "studyset": "22867671",
+    "data": [
+    {
+        "question": "a",
+        "answer": "yī"
+    },
+    {
+        "question": "about",
+        "answer": "guān yú"
+    },
+    {
+        "question": "all",
+        "answer": "suǒ yǒu"
+    },
+    {
+        "question": "also",
+        "answer": "yě"
+    },
+    {
+        "question": "and",
+        "answer": "hé"
+    },
+    {
+        "question": "as",
+        "answer": "rú tóng"
+    },
+    {
+        "question": "at",
+        "answer": "zài"
+    },
+    {
+        "question": "be",
+        "answer": "shì"
+    },
+    {
+        "question": "because",
+        "answer": "yīn wèi"
+    },
+    {
+        "question": "but",
+        "answer": "dàn shì"
+    },
+    {
+        "question": "by",
+        "answer": "tōng guò"
+    },
+    {
+        "question": "can",
+        "answer": "néng"
+    },
+    {
+        "question": "come",
+        "answer": "lái"
+    },
+    {
+        "question": "could",
+        "answer": "néng gòu"
+    },
+    {
+        "question": "day",
+        "answer": "rì"
+    },
+    {
+        "question": "do",
+        "answer": "zuò"
+    },
+    {
+        "question": "even",
+        "answer": "shèn zhì"
+    },
+    {
+        "question": "find",
+        "answer": "zhǎo dào"
+    },
+    {
+        "question": "first",
+        "answer": "dì yī"
+    },
+    {
+        "question": "for",
+        "answer": "wèi"
+    },
+    {
+        "question": "from",
+        "answer": "cóng"
+    },
+    {
+        "question": "get",
+        "answer": "huò dé"
+    },
+    {
+        "question": "give",
+        "answer": "gěi"
+    },
+    {
+        "question": "go",
+        "answer": "qù"
+    },
+    {
+        "question": "have",
+        "answer": "yǒu"
+    },
+    {
+        "question": "he",
+        "answer": "tā"
+    },
+    {
+        "question": "her",
+        "answer": "tā de"
+    },
+    {
+        "question": "here",
+        "answer": "zhè lǐ"
+    },
+    {
+        "question": "him",
+        "answer": "tā"
+    },
+    {
+        "question": "his",
+        "answer": "tā de"
+    },
+    {
+        "question": "how",
+        "answer": "zěn me"
+    },
+    {
+        "question": "I",
+        "answer": "wǒ"
+    },
+    {
+        "question": "if",
+        "answer": "rú guǒ"
+    },
+    {
+        "question": "in",
+        "answer": "zài"
+    },
+    {
+        "question": "into",
+        "answer": "jìn rù"
+    },
+    {
+        "question": "it",
+        "answer": "tā"
+    },
+    {
+        "question": "its",
+        "answer": "tā de"
+    },
+    {
+        "question": "just",
+        "answer": "zhǐ"
+    },
+    {
+        "question": "know",
+        "answer": "zhī dào"
+    },
+    {
+        "question": "like",
+        "answer": "xǐ huān"
+    },
+    {
+        "question": "look",
+        "answer": "kàn"
+    },
+    {
+        "question": "make",
+        "answer": "zuò"
+    },
+    {
+        "question": "man",
+        "answer": "nán rén"
+    },
+    {
+        "question": "many",
+        "answer": "hěn duō"
+    },
+    {
+        "question": "me",
+        "answer": "wǒ"
+    },
+    {
+        "question": "more",
+        "answer": "gèng duō"
+    },
+    {
+        "question": "my",
+        "answer": "wǒ de"
+    },
+    {
+        "question": "new",
+        "answer": "xīn"
+    },
+    {
+        "question": "no",
+        "answer": "bù"
+    },
+    {
+        "question": "not",
+        "answer": "bù"
+    },
+    {
+        "question": "now",
+        "answer": "xiàn zài"
+    },
+    {
+        "question": "of",
+        "answer": "de"
+    },
+    {
+        "question": "on",
+        "answer": "zài"
+    },
+    {
+        "question": "one",
+        "answer": "yī"
+    },
+    {
+        "question": "only",
+        "answer": "zhǐ"
+    },
+    {
+        "question": "or",
+        "answer": "huò zhě"
+    },
+    {
+        "question": "other",
+        "answer": "qí tā"
+    },
+    {
+        "question": "our",
+        "answer": "wǒ men de"
+    },
+    {
+        "question": "out",
+        "answer": "chū"
+    },
+    {
+        "question": "people",
+        "answer": "rén"
+    },
+    {
+        "question": "say",
+        "answer": "shuō"
+    },
+    {
+        "question": "see",
+        "answer": "kàn jiàn"
+    },
+    {
+        "question": "she",
+        "answer": "tā"
+    },
+    {
+        "question": "so",
+        "answer": "suǒ yǐ"
+    },
+    {
+        "question": "some",
+        "answer": "yī xiē"
+    },
+    {
+        "question": "take",
+        "answer": "ná"
+    },
+    {
+        "question": "tell",
+        "answer": "gào sù"
+    },
+    {
+        "question": "than",
+        "answer": "bǐ"
+    },
+    {
+        "question": "that",
+        "answer": "nà"
+    },
+    {
+        "question": "the",
+        "answer": "de"
+    },
+    {
+        "question": "their",
+        "answer": "tā men de"
+    },
+    {
+        "question": "them",
+        "answer": "tā men"
+    },
+    {
+        "question": "then",
+        "answer": "ránhòu"
+    },
+    {
+        "question": "there",
+        "answer": "nà lǐ"
+    },
+    {
+        "question": "these",
+        "answer": "zhè xiē"
+    },
+    {
+        "question": "they",
+        "answer": "tā men"
+    },
+    {
+        "question": "thing",
+        "answer": "shì qíng"
+    },
+    {
+        "question": "think",
+        "answer": "xiǎng"
+    },
+    {
+        "question": "this",
+        "answer": "zhè"
+    },
+    {
+        "question": "those",
+        "answer": "nà xiē"
+    },
+    {
+        "question": "time",
+        "answer": "shí jiān"
+    },
+    {
+        "question": "to",
+        "answer": "dào"
+    },
+    {
+        "question": "two",
+        "answer": "èr"
+    },
+    {
+        "question": "up",
+        "answer": "shàng"
+    },
+    {
+        "question": "use",
+        "answer": "shǐ yòng"
+    },
+    {
+        "question": "very",
+        "answer": "hěn"
+    },
+    {
+        "question": "want",
+        "answer": "xiǎng yào"
+    },
+    {
+        "question": "way",
+        "answer": "fāng shì"
+    },
+    {
+        "question": "we",
+        "answer": "wǒ men"
+    },
+    {
+        "question": "well",
+        "answer": "hǎo"
+    },
+    {
+        "question": "what",
+        "answer": "shén me"
+    },
+    {
+        "question": "when",
+        "answer": "shén me shí hòu"
+    },
+    {
+        "question": "which",
+        "answer": "nǎ"
+    },
+    {
+        "question": "who",
+        "answer": "shéi"
+    },
+    {
+        "question": "will",
+        "answer": "huì"
+    },
+    {
+        "question": "with",
+        "answer": "yǔ"
+    },
+    {
+        "question": "would",
+        "answer": "huì"
+    },
+    {
+        "question": "year",
+        "answer": "nián"
+    },
+    {
+        "question": "you",
+        "answer": "nǐ"
+    },
+    {
+        "question": "your",
+        "answer": "nǐ de"
+    }
+]
+}
