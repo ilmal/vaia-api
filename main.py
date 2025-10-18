@@ -51,6 +51,8 @@ def add_cart(token, s_id, data):
 
     response = requests.request("POST", url, headers=headers, data=payload)
 
+    #print("RESPONSE: ", response.json())
+
 def main(STUDYSET):
 
     # Log in to Vaia
@@ -70,11 +72,10 @@ def main(STUDYSET):
     for data in s_data:
         print("CREATING FLASHCARD FOR QUESTION: ", data["question"])
         add_cart(token, s_id, data)
-
     pass
 
 if __name__ == "__main__":
     load_dotenv()
 
-    STUDYSET = "studysets/p100new.json"
+    STUDYSET = os.getenv("STUDYSET")
     main(STUDYSET)

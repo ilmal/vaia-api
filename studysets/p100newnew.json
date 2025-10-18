@@ -1,0 +1,405 @@
+{
+    "studyset": "39104108",
+    "data": [
+        {
+            "question": "的 de",
+            "answer": "of"
+        },
+        {
+            "question": "一 yī",
+            "answer": "one"
+        },
+        {
+            "question": "是 shì",
+            "answer": "to be"
+        },
+        {
+            "question": "不 bù",
+            "answer": "not"
+        },
+        {
+            "question": "了 le",
+            "answer": "completed"
+        },
+        {
+            "question": "人 rén",
+            "answer": "person"
+        },
+        {
+            "question": "我 wǒ",
+            "answer": "I"
+        },
+        {
+            "question": "在 zài",
+            "answer": "at"
+        },
+        {
+            "question": "有 yǒu",
+            "answer": "have"
+        },
+        {
+            "question": "他 tā",
+            "answer": "he"
+        },
+        {
+            "question": "这 zhè",
+            "answer": "this"
+        },
+        {
+            "question": "为 wèi",
+            "answer": "for"
+        },
+        {
+            "question": "大 dà",
+            "answer": "big"
+        },
+        {
+            "question": "来 lái",
+            "answer": "come"
+        },
+        {
+            "question": "以 yǐ",
+            "answer": "with"
+        },
+        {
+            "question": "个 gè",
+            "answer": "individual"
+        },
+        {
+            "question": "中 zhōng",
+            "answer": "middle"
+        },
+        {
+            "question": "上 shàng",
+            "answer": "up"
+        },
+        {
+            "question": "们 men",
+            "answer": "plural"
+        },
+        {
+            "question": "到 dào",
+            "answer": "to"
+        },
+        {
+            "question": "说 shuō",
+            "answer": "say"
+        },
+        {
+            "question": "国 guó",
+            "answer": "country"
+        },
+        {
+            "question": "和 hé",
+            "answer": "and"
+        },
+        {
+            "question": "地 dì",
+            "answer": "earth"
+        },
+        {
+            "question": "也 yě",
+            "answer": "also"
+        },
+        {
+            "question": "子 zǐ",
+            "answer": "child"
+        },
+        {
+            "question": "时 shí",
+            "answer": "time"
+        },
+        {
+            "question": "道 dào",
+            "answer": "way"
+        },
+        {
+            "question": "出 chū",
+            "answer": "out"
+        },
+        {
+            "question": "要 yào",
+            "answer": "want"
+        },
+        {
+            "question": "就 jiù",
+            "answer": "just"
+        },
+        {
+            "question": "下 xià",
+            "answer": "down"
+        },
+        {
+            "question": "得 dé",
+            "answer": "get"
+        },
+        {
+            "question": "可 kě",
+            "answer": "can"
+        },
+        {
+            "question": "你 nǐ",
+            "answer": "you"
+        },
+        {
+            "question": "年 nián",
+            "answer": "year"
+        },
+        {
+            "question": "生 shēng",
+            "answer": "born"
+        },
+        {
+            "question": "自 zì",
+            "answer": "self"
+        },
+        {
+            "question": "会 huì",
+            "answer": "can"
+        },
+        {
+            "question": "那 nà",
+            "answer": "that"
+        },
+        {
+            "question": "后 hòu",
+            "answer": "after"
+        },
+        {
+            "question": "能 néng",
+            "answer": "can"
+        },
+        {
+            "question": "对 duì",
+            "answer": "to"
+        },
+        {
+            "question": "着 zhe",
+            "answer": "ing"
+        },
+        {
+            "question": "事 shì",
+            "answer": "thing"
+        },
+        {
+            "question": "里 lǐ",
+            "answer": "inside"
+        },
+        {
+            "question": "去 qù",
+            "answer": "go"
+        },
+        {
+            "question": "行 xíng",
+            "answer": "go"
+        },
+        {
+            "question": "过 guò",
+            "answer": "pass"
+        },
+        {
+            "question": "家 jiā",
+            "answer": "home"
+        },
+        {
+            "question": "十 shí",
+            "answer": "ten"
+        },
+        {
+            "question": "用 yòng",
+            "answer": "use"
+        },
+        {
+            "question": "发 fā",
+            "answer": "send"
+        },
+        {
+            "question": "天 tiān",
+            "answer": "day"
+        },
+        {
+            "question": "如 rú",
+            "answer": "like"
+        },
+        {
+            "question": "作 zuò",
+            "answer": "make"
+        },
+        {
+            "question": "方 fāng",
+            "answer": "square"
+        },
+        {
+            "question": "成 chéng",
+            "answer": "become"
+        },
+        {
+            "question": "多 duō",
+            "answer": "many"
+        },
+        {
+            "question": "日 rì",
+            "answer": "day"
+        },
+        {
+            "question": "都 dōu",
+            "answer": "all"
+        },
+        {
+            "question": "三 sān",
+            "answer": "three"
+        },
+        {
+            "question": "小 xiǎo",
+            "answer": "small"
+        },
+        {
+            "question": "军 jūn",
+            "answer": "army"
+        },
+        {
+            "question": "二 èr",
+            "answer": "two"
+        },
+        {
+            "question": "无 wú",
+            "answer": "no"
+        },
+        {
+            "question": "同 tóng",
+            "answer": "same"
+        },
+        {
+            "question": "么 me",
+            "answer": "suffix"
+        },
+        {
+            "question": "法 fǎ",
+            "answer": "law"
+        },
+        {
+            "question": "当 dāng",
+            "answer": "when"
+        },
+        {
+            "question": "起 qǐ",
+            "answer": "rise"
+        },
+        {
+            "question": "与 yǔ",
+            "answer": "with"
+        },
+        {
+            "question": "好 hǎo",
+            "answer": "good"
+        },
+        {
+            "question": "看 kàn",
+            "answer": "look"
+        },
+        {
+            "question": "学 xué",
+            "answer": "study"
+        },
+        {
+            "question": "进 jìn",
+            "answer": "enter"
+        },
+        {
+            "question": "种 zhǒng",
+            "answer": "kind"
+        },
+        {
+            "question": "将 jiāng",
+            "answer": "will"
+        },
+        {
+            "question": "还 hái",
+            "answer": "still"
+        },
+        {
+            "question": "分 fēn",
+            "answer": "divide"
+        },
+        {
+            "question": "此 cǐ",
+            "answer": "this"
+        },
+        {
+            "question": "心 xīn",
+            "answer": "heart"
+        },
+        {
+            "question": "前 qián",
+            "answer": "front"
+        },
+        {
+            "question": "面 miàn",
+            "answer": "face"
+        },
+        {
+            "question": "又 yòu",
+            "answer": "again"
+        },
+        {
+            "question": "定 dìng",
+            "answer": "set"
+        },
+        {
+            "question": "见 jiàn",
+            "answer": "see"
+        },
+        {
+            "question": "只 zhǐ",
+            "answer": "only"
+        },
+        {
+            "question": "主 zhǔ",
+            "answer": "main"
+        },
+        {
+            "question": "没 méi",
+            "answer": "not have"
+        },
+        {
+            "question": "公 gōng",
+            "answer": "public"
+        },
+        {
+            "question": "从 cóng",
+            "answer": "from"
+        },
+        {
+            "question": "她 tā",
+            "answer": "she"
+        },
+        {
+            "question": "想 xiǎng",
+            "answer": "think"
+        },
+        {
+            "question": "开 kāi",
+            "answer": "open"
+        },
+        {
+            "question": "美 měi",
+            "answer": "beautiful"
+        },
+        {
+            "question": "通 tōng",
+            "answer": "through"
+        },
+        {
+            "question": "师 shī",
+            "answer": "teacher"
+        },
+        {
+            "question": "何 hé",
+            "answer": "what"
+        },
+        {
+            "question": "声 shēng",
+            "answer": "sound"
+        }
+    ]
+}
